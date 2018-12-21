@@ -15,6 +15,7 @@
 		18EAF73721CC8047009660C1 /* leetcodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF73621CC8047009660C1 /* leetcodeTests.swift */; };
 		18EAF74221CC8047009660C1 /* leetcodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF74121CC8047009660C1 /* leetcodeUITests.swift */; };
 		18EAF75021CC8071009660C1 /* 796. RotateString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF74F21CC8071009660C1 /* 796. RotateString.swift */; };
+		18EAF75221CC8401009660C1 /* 189. RotateArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF75121CC8401009660C1 /* 189. RotateArray.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		18EAF74121CC8047009660C1 /* leetcodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = leetcodeUITests.swift; sourceTree = "<group>"; };
 		18EAF74321CC8047009660C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18EAF74F21CC8071009660C1 /* 796. RotateString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "796. RotateString.swift"; sourceTree = "<group>"; };
+		18EAF75121CC8401009660C1 /* 189. RotateArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "189. RotateArray.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				18EAF72A21CC8047009660C1 /* LaunchScreen.storyboard */,
 				18EAF72D21CC8047009660C1 /* Info.plist */,
 				18EAF74F21CC8071009660C1 /* 796. RotateString.swift */,
+				18EAF75121CC8401009660C1 /* 189. RotateArray.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				18EAF72421CC8043009660C1 /* ViewController.swift in Sources */,
 				18EAF75021CC8071009660C1 /* 796. RotateString.swift in Sources */,
 				18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */,
+				18EAF75221CC8401009660C1 /* 189. RotateArray.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -435,7 +439,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = DSVBXGQ6V7;
 				INFOPLIST_FILE = leetcode/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -452,7 +458,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = DSVBXGQ6V7;
 				INFOPLIST_FILE = leetcode/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
