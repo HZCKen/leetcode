@@ -16,6 +16,7 @@
 		18EAF74221CC8047009660C1 /* leetcodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF74121CC8047009660C1 /* leetcodeUITests.swift */; };
 		18EAF75021CC8071009660C1 /* 796. RotateString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF74F21CC8071009660C1 /* 796. RotateString.swift */; };
 		18EAF75221CC8401009660C1 /* 189. RotateArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF75121CC8401009660C1 /* 189. RotateArray.swift */; };
+		18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF75321CC92B3009660C1 /* 709. ToLowerCase.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		18EAF74321CC8047009660C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18EAF74F21CC8071009660C1 /* 796. RotateString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "796. RotateString.swift"; sourceTree = "<group>"; };
 		18EAF75121CC8401009660C1 /* 189. RotateArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "189. RotateArray.swift"; sourceTree = "<group>"; };
+		18EAF75321CC92B3009660C1 /* 709. ToLowerCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "709. ToLowerCase.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				18EAF72D21CC8047009660C1 /* Info.plist */,
 				18EAF74F21CC8071009660C1 /* 796. RotateString.swift */,
 				18EAF75121CC8401009660C1 /* 189. RotateArray.swift */,
+				18EAF75321CC92B3009660C1 /* 709. ToLowerCase.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18EAF72421CC8043009660C1 /* ViewController.swift in Sources */,
+				18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */,
 				18EAF75021CC8071009660C1 /* 796. RotateString.swift in Sources */,
 				18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */,
 				18EAF75221CC8401009660C1 /* 189. RotateArray.swift in Sources */,
