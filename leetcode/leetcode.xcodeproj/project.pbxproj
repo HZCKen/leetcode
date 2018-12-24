@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1814F5F121D07F6E005405E9 /* 344. ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F021D07F6E005405E9 /* 344. ReverseString.swift */; };
+		1814F5F321D08149005405E9 /* 557. ReverseWordsinaStringIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F221D08149005405E9 /* 557. ReverseWordsinaStringIII.swift */; };
 		18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72121CC8043009660C1 /* AppDelegate.swift */; };
 		18EAF72421CC8043009660C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72321CC8043009660C1 /* ViewController.swift */; };
 		18EAF72721CC8043009660C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EAF72521CC8043009660C1 /* Main.storyboard */; };
@@ -39,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		1814F5F021D07F6E005405E9 /* 344. ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "344. ReverseString.swift"; sourceTree = "<group>"; };
+		1814F5F221D08149005405E9 /* 557. ReverseWordsinaStringIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "557. ReverseWordsinaStringIII.swift"; sourceTree = "<group>"; };
 		18EAF71E21CC8043009660C1 /* leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EAF72121CC8043009660C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18EAF72321CC8043009660C1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -115,6 +117,7 @@
 				18EAF75121CC8401009660C1 /* 189. RotateArray.swift */,
 				18EAF75321CC92B3009660C1 /* 709. ToLowerCase.swift */,
 				1814F5F021D07F6E005405E9 /* 344. ReverseString.swift */,
+				1814F5F221D08149005405E9 /* 557. ReverseWordsinaStringIII.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -269,6 +272,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18EAF72421CC8043009660C1 /* ViewController.swift in Sources */,
+				1814F5F321D08149005405E9 /* 557. ReverseWordsinaStringIII.swift in Sources */,
 				1814F5F121D07F6E005405E9 /* 344. ReverseString.swift in Sources */,
 				18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */,
 				18EAF75021CC8071009660C1 /* 796. RotateString.swift in Sources */,
