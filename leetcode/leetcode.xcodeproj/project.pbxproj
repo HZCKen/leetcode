@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		18052DC621D20F990086F485 /* 434. NumberOfSegmentsInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18052DC521D20F990086F485 /* 434. NumberOfSegmentsInAString.swift */; };
+		18052DC821D220E10086F485 /* 806. NumberOfLinesToWriteString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18052DC721D220E10086F485 /* 806. NumberOfLinesToWriteString.swift */; };
 		1814F5F121D07F6E005405E9 /* 344. ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F021D07F6E005405E9 /* 344. ReverseString.swift */; };
 		1814F5F321D08149005405E9 /* 557. ReverseWordsinaStringIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F221D08149005405E9 /* 557. ReverseWordsinaStringIII.swift */; };
 		1814F5F521D08E4D005405E9 /* 66. PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F421D08E4D005405E9 /* 66. PlusOne.swift */; };
@@ -42,6 +43,7 @@
 
 /* Begin PBXFileReference section */
 		18052DC521D20F990086F485 /* 434. NumberOfSegmentsInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "434. NumberOfSegmentsInAString.swift"; sourceTree = "<group>"; };
+		18052DC721D220E10086F485 /* 806. NumberOfLinesToWriteString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "806. NumberOfLinesToWriteString.swift"; sourceTree = "<group>"; };
 		1814F5F021D07F6E005405E9 /* 344. ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "344. ReverseString.swift"; sourceTree = "<group>"; };
 		1814F5F221D08149005405E9 /* 557. ReverseWordsinaStringIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "557. ReverseWordsinaStringIII.swift"; sourceTree = "<group>"; };
 		1814F5F421D08E4D005405E9 /* 66. PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "66. PlusOne.swift"; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				1814F5F221D08149005405E9 /* 557. ReverseWordsinaStringIII.swift */,
 				1814F5F421D08E4D005405E9 /* 66. PlusOne.swift */,
 				18052DC521D20F990086F485 /* 434. NumberOfSegmentsInAString.swift */,
+				18052DC721D220E10086F485 /* 806. NumberOfLinesToWriteString.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -283,6 +286,7 @@
 				18052DC621D20F990086F485 /* 434. NumberOfSegmentsInAString.swift in Sources */,
 				18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */,
 				1814F5F521D08E4D005405E9 /* 66. PlusOne.swift in Sources */,
+				18052DC821D220E10086F485 /* 806. NumberOfLinesToWriteString.swift in Sources */,
 				18EAF75021CC8071009660C1 /* 796. RotateString.swift in Sources */,
 				18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */,
 				18EAF75221CC8401009660C1 /* 189. RotateArray.swift in Sources */,
