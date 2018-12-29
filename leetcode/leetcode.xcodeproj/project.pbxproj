@@ -12,6 +12,7 @@
 		1814F5F121D07F6E005405E9 /* 344. ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F021D07F6E005405E9 /* 344. ReverseString.swift */; };
 		1814F5F321D08149005405E9 /* 557. ReverseWordsinaStringIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F221D08149005405E9 /* 557. ReverseWordsinaStringIII.swift */; };
 		1814F5F521D08E4D005405E9 /* 66. PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F421D08E4D005405E9 /* 66. PlusOne.swift */; };
+		186AA90B21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186AA90A21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift */; };
 		18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72121CC8043009660C1 /* AppDelegate.swift */; };
 		18EAF72421CC8043009660C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72321CC8043009660C1 /* ViewController.swift */; };
 		18EAF72721CC8043009660C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EAF72521CC8043009660C1 /* Main.storyboard */; };
@@ -47,6 +48,7 @@
 		1814F5F021D07F6E005405E9 /* 344. ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "344. ReverseString.swift"; sourceTree = "<group>"; };
 		1814F5F221D08149005405E9 /* 557. ReverseWordsinaStringIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "557. ReverseWordsinaStringIII.swift"; sourceTree = "<group>"; };
 		1814F5F421D08E4D005405E9 /* 66. PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "66. PlusOne.swift"; sourceTree = "<group>"; };
+		186AA90A21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17. LetterCombinationsOfAPhoneNumber.swift"; sourceTree = "<group>"; };
 		18EAF71E21CC8043009660C1 /* leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EAF72121CC8043009660C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18EAF72321CC8043009660C1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 				1814F5F421D08E4D005405E9 /* 66. PlusOne.swift */,
 				18052DC521D20F990086F485 /* 434. NumberOfSegmentsInAString.swift */,
 				18052DC721D220E10086F485 /* 806. NumberOfLinesToWriteString.swift */,
+				186AA90A21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -284,6 +287,7 @@
 				1814F5F321D08149005405E9 /* 557. ReverseWordsinaStringIII.swift in Sources */,
 				1814F5F121D07F6E005405E9 /* 344. ReverseString.swift in Sources */,
 				18052DC621D20F990086F485 /* 434. NumberOfSegmentsInAString.swift in Sources */,
+				186AA90B21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift in Sources */,
 				18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */,
 				1814F5F521D08E4D005405E9 /* 66. PlusOne.swift in Sources */,
 				18052DC821D220E10086F485 /* 806. NumberOfLinesToWriteString.swift in Sources */,
