@@ -13,8 +13,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        let lett = LetterCombinationsOfAPhoneNumber()
-        lett.letterCombinations("234")
+        let lett = MaskingPersonalInformation()
+        lett.maskPII("1(234)567-890")
+       
     }
 
     override func didReceiveMemoryWarning() {
