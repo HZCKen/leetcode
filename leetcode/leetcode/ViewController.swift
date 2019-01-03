@@ -13,8 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        let lett = MaskingPersonalInformation()
-        lett.maskPII("1(234)567-890")
+        let lett = TwoSum()
+        lett.twoSum([3, 2, 4], 6)
        
     }
 
