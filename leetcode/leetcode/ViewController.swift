@@ -12,9 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        let lett = TwoSum()
-        lett.twoSum([3, 2, 4], 6)
+        let lett = ThirdMaximumNumber()
+        lett.thirdMax([1, 2, 1])
        
     }
 
