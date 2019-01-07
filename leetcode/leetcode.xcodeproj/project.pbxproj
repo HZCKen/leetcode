@@ -17,6 +17,7 @@
 		184E146121DEFEC300E2DD11 /* 268. MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184E146021DEFEC300E2DD11 /* 268. MissingNumber.swift */; };
 		184E146321DF034400E2DD11 /* 414. ThirdMaximumNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184E146221DF034400E2DD11 /* 414. ThirdMaximumNumber.swift */; };
 		186AA90B21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186AA90A21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift */; };
+		18B9DBA121E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B9DBA021E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift */; };
 		18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72121CC8043009660C1 /* AppDelegate.swift */; };
 		18EAF72421CC8043009660C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72321CC8043009660C1 /* ViewController.swift */; };
 		18EAF72721CC8043009660C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EAF72521CC8043009660C1 /* Main.storyboard */; };
@@ -58,6 +59,7 @@
 		184E146021DEFEC300E2DD11 /* 268. MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "268. MissingNumber.swift"; sourceTree = "<group>"; };
 		184E146221DF034400E2DD11 /* 414. ThirdMaximumNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "414. ThirdMaximumNumber.swift"; sourceTree = "<group>"; };
 		186AA90A21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17. LetterCombinationsOfAPhoneNumber.swift"; sourceTree = "<group>"; };
+		18B9DBA021E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "628. MaximumProductOfThreeNumbers.swift"; sourceTree = "<group>"; };
 		18EAF71E21CC8043009660C1 /* leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EAF72121CC8043009660C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18EAF72321CC8043009660C1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				184E145E21DEFB1A00E2DD11 /* 283. MoveZeroes.swift */,
 				184E146021DEFEC300E2DD11 /* 268. MissingNumber.swift */,
 				184E146221DF034400E2DD11 /* 414. ThirdMaximumNumber.swift */,
+				18B9DBA021E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -317,6 +320,7 @@
 				1814F5F521D08E4D005405E9 /* 66. PlusOne.swift in Sources */,
 				184E146121DEFEC300E2DD11 /* 268. MissingNumber.swift in Sources */,
 				18052DC821D220E10086F485 /* 806. NumberOfLinesToWriteString.swift in Sources */,
+				18B9DBA121E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift in Sources */,
 				18EAF75021CC8071009660C1 /* 796. RotateString.swift in Sources */,
 				18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */,
 				182EDDD821DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift in Sources */,
