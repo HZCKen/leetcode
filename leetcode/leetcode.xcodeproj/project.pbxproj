@@ -19,6 +19,7 @@
 		186AA90B21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186AA90A21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift */; };
 		18B9DBA121E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B9DBA021E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift */; };
 		18B9DBA321E2E7D000D1EF23 /* 485. MaxConsecutiveOnes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B9DBA221E2E7D000D1EF23 /* 485. MaxConsecutiveOnes.swift */; };
+		18B9DBA521E2EB7900D1EF23 /* 905. SortArrayByParity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B9DBA421E2EB7900D1EF23 /* 905. SortArrayByParity.swift */; };
 		18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72121CC8043009660C1 /* AppDelegate.swift */; };
 		18EAF72421CC8043009660C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72321CC8043009660C1 /* ViewController.swift */; };
 		18EAF72721CC8043009660C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EAF72521CC8043009660C1 /* Main.storyboard */; };
@@ -62,6 +63,7 @@
 		186AA90A21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17. LetterCombinationsOfAPhoneNumber.swift"; sourceTree = "<group>"; };
 		18B9DBA021E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "628. MaximumProductOfThreeNumbers.swift"; sourceTree = "<group>"; };
 		18B9DBA221E2E7D000D1EF23 /* 485. MaxConsecutiveOnes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "485. MaxConsecutiveOnes.swift"; sourceTree = "<group>"; };
+		18B9DBA421E2EB7900D1EF23 /* 905. SortArrayByParity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "905. SortArrayByParity.swift"; sourceTree = "<group>"; };
 		18EAF71E21CC8043009660C1 /* leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EAF72121CC8043009660C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18EAF72321CC8043009660C1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -114,6 +116,7 @@
 				184E146221DF034400E2DD11 /* 414. ThirdMaximumNumber.swift */,
 				18B9DBA021E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift */,
 				18B9DBA221E2E7D000D1EF23 /* 485. MaxConsecutiveOnes.swift */,
+				18B9DBA421E2EB7900D1EF23 /* 905. SortArrayByParity.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -316,6 +319,7 @@
 				184E146321DF034400E2DD11 /* 414. ThirdMaximumNumber.swift in Sources */,
 				1814F5F321D08149005405E9 /* 557. ReverseWordsinaStringIII.swift in Sources */,
 				18F2C92D21DDB15200B3FFFA /* 1. TwoSum.swift in Sources */,
+				18B9DBA521E2EB7900D1EF23 /* 905. SortArrayByParity.swift in Sources */,
 				1814F5F121D07F6E005405E9 /* 344. ReverseString.swift in Sources */,
 				18052DC621D20F990086F485 /* 434. NumberOfSegmentsInAString.swift in Sources */,
 				186AA90B21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift in Sources */,

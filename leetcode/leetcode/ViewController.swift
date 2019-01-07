@@ -12,8 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let lett = ThirdMaximumNumber()
-        lett.thirdMax([1, 2, 1])
+        let lett = SortArrayByParity()
+        lett.sortArrayByParity([3,1,2,4])
        
     }
 
