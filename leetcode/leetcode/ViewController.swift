@@ -12,8 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let lett = SortArrayByParity()
-        lett.sortArrayByParity([3,1,2,4])
+        let lett = MinCostClimbingStairs()
+        lett.minCostClimbingStairs([1, 100, 1, 1, 1, 100, 1, 1, 100, 1])
        
     }
 
