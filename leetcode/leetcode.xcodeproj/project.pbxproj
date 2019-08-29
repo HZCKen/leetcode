@@ -17,6 +17,7 @@
 		184E146121DEFEC300E2DD11 /* 268. MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184E146021DEFEC300E2DD11 /* 268. MissingNumber.swift */; };
 		184E146321DF034400E2DD11 /* 414. ThirdMaximumNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184E146221DF034400E2DD11 /* 414. ThirdMaximumNumber.swift */; };
 		185EB0822317708D003474CC /* 914. XOfAKindInADeckOfCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EB0812317708D003474CC /* 914. XOfAKindInADeckOfCards.swift */; };
+		185EB08423177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EB08323177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift */; };
 		186AA90B21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186AA90A21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift */; };
 		18AE5C3621E58E3A0091703F /* 746. MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AE5C3521E58E3A0091703F /* 746. MinCostClimbingStairs.swift */; };
 		18B9DBA121E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B9DBA021E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift */; };
@@ -63,6 +64,7 @@
 		184E146021DEFEC300E2DD11 /* 268. MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "268. MissingNumber.swift"; sourceTree = "<group>"; };
 		184E146221DF034400E2DD11 /* 414. ThirdMaximumNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "414. ThirdMaximumNumber.swift"; sourceTree = "<group>"; };
 		185EB0812317708D003474CC /* 914. XOfAKindInADeckOfCards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "914. XOfAKindInADeckOfCards.swift"; sourceTree = "<group>"; };
+		185EB08323177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "985. SumOfEvenNumbersAfterQueries.swift"; sourceTree = "<group>"; };
 		186AA90A21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17. LetterCombinationsOfAPhoneNumber.swift"; sourceTree = "<group>"; };
 		18AE5C3521E58E3A0091703F /* 746. MinCostClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "746. MinCostClimbingStairs.swift"; sourceTree = "<group>"; };
 		18B9DBA021E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "628. MaximumProductOfThreeNumbers.swift"; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 				18B9DBA421E2EB7900D1EF23 /* 905. SortArrayByParity.swift */,
 				18AE5C3521E58E3A0091703F /* 746. MinCostClimbingStairs.swift */,
 				185EB0812317708D003474CC /* 914. XOfAKindInADeckOfCards.swift */,
+				185EB08323177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -329,6 +332,7 @@
 				1814F5F121D07F6E005405E9 /* 344. ReverseString.swift in Sources */,
 				18052DC621D20F990086F485 /* 434. NumberOfSegmentsInAString.swift in Sources */,
 				186AA90B21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift in Sources */,
+				185EB08423177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift in Sources */,
 				18AE5C3621E58E3A0091703F /* 746. MinCostClimbingStairs.swift in Sources */,
 				18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */,
 				185EB0822317708D003474CC /* 914. XOfAKindInADeckOfCards.swift in Sources */,
