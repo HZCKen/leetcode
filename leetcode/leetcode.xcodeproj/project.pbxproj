@@ -33,6 +33,7 @@
 		18EAF75021CC8071009660C1 /* 796. RotateString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF74F21CC8071009660C1 /* 796. RotateString.swift */; };
 		18EAF75221CC8401009660C1 /* 189. RotateArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF75121CC8401009660C1 /* 189. RotateArray.swift */; };
 		18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF75321CC92B3009660C1 /* 709. ToLowerCase.swift */; };
+		18EFB1152319014800BA8717 /* 977. SquaresOfASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EFB1142319014800BA8717 /* 977. SquaresOfASortedArray.swift */; };
 		18F2C92D21DDB15200B3FFFA /* 1. TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F2C92C21DDB15200B3FFFA /* 1. TwoSum.swift */; };
 /* End PBXBuildFile section */
 
@@ -86,6 +87,7 @@
 		18EAF74F21CC8071009660C1 /* 796. RotateString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "796. RotateString.swift"; sourceTree = "<group>"; };
 		18EAF75121CC8401009660C1 /* 189. RotateArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "189. RotateArray.swift"; sourceTree = "<group>"; };
 		18EAF75321CC92B3009660C1 /* 709. ToLowerCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "709. ToLowerCase.swift"; sourceTree = "<group>"; };
+		18EFB1142319014800BA8717 /* 977. SquaresOfASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "977. SquaresOfASortedArray.swift"; sourceTree = "<group>"; };
 		18F2C92C21DDB15200B3FFFA /* 1. TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. TwoSum.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -126,6 +128,7 @@
 				18AE5C3521E58E3A0091703F /* 746. MinCostClimbingStairs.swift */,
 				185EB0812317708D003474CC /* 914. XOfAKindInADeckOfCards.swift */,
 				185EB08323177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift */,
+				18EFB1142319014800BA8717 /* 977. SquaresOfASortedArray.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				185EB08423177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift in Sources */,
 				18AE5C3621E58E3A0091703F /* 746. MinCostClimbingStairs.swift in Sources */,
 				18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */,
+				18EFB1152319014800BA8717 /* 977. SquaresOfASortedArray.swift in Sources */,
 				185EB0822317708D003474CC /* 914. XOfAKindInADeckOfCards.swift in Sources */,
 				1814F5F521D08E4D005405E9 /* 66. PlusOne.swift in Sources */,
 				184E146121DEFEC300E2DD11 /* 268. MissingNumber.swift in Sources */,
