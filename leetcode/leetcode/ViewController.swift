@@ -15,8 +15,11 @@ class ViewController: UIViewController {
 //        let lett = MinCostClimbingStairs()
 //        lett.minCostClimbingStairs([1, 100, 1, 1, 1, 100, 1, 1, 100, 1])
        
-        let sss = XOfAKindInADeckOfCards().hasGroupsSizeX([1, 2, 1, 2])
-        print(sss)
+//        let sss = XOfAKindInADeckOfCards().hasGroupsSizeX([1, 2, 1, 2])
+//        print(sss)
+        let result = BestTimeToBuyAndSellStock().maxProfit([2,4,1])
+//        let result = ContainsDuplicate().containsDuplicate([1, 2, 3, 1])
+        print(result)
     }
 
     override func didReceiveMemoryWarning() {

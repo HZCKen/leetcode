@@ -19,6 +19,8 @@
 		185EB0822317708D003474CC /* 914. XOfAKindInADeckOfCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EB0812317708D003474CC /* 914. XOfAKindInADeckOfCards.swift */; };
 		185EB08423177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EB08323177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift */; };
 		186AA90B21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186AA90A21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift */; };
+		1892A9BE231CA688003516ED /* 121. BestTimeToBuyAndSellStock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1892A9BD231CA688003516ED /* 121. BestTimeToBuyAndSellStock.swift */; };
+		1892A9C0231CB595003516ED /* 122. BestTimeToBuyAndSellStock II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1892A9BF231CB595003516ED /* 122. BestTimeToBuyAndSellStock II.swift */; };
 		18AE5C3621E58E3A0091703F /* 746. MinCostClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AE5C3521E58E3A0091703F /* 746. MinCostClimbingStairs.swift */; };
 		18B9DBA121E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B9DBA021E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift */; };
 		18B9DBA321E2E7D000D1EF23 /* 485. MaxConsecutiveOnes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B9DBA221E2E7D000D1EF23 /* 485. MaxConsecutiveOnes.swift */; };
@@ -34,6 +36,7 @@
 		18EAF75221CC8401009660C1 /* 189. RotateArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF75121CC8401009660C1 /* 189. RotateArray.swift */; };
 		18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF75321CC92B3009660C1 /* 709. ToLowerCase.swift */; };
 		18EFB1152319014800BA8717 /* 977. SquaresOfASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EFB1142319014800BA8717 /* 977. SquaresOfASortedArray.swift */; };
+		18EFB1172319136300BA8717 /* 217. ContainsDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EFB1162319136300BA8717 /* 217. ContainsDuplicate.swift */; };
 		18F2C92D21DDB15200B3FFFA /* 1. TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F2C92C21DDB15200B3FFFA /* 1. TwoSum.swift */; };
 /* End PBXBuildFile section */
 
@@ -67,6 +70,8 @@
 		185EB0812317708D003474CC /* 914. XOfAKindInADeckOfCards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "914. XOfAKindInADeckOfCards.swift"; sourceTree = "<group>"; };
 		185EB08323177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "985. SumOfEvenNumbersAfterQueries.swift"; sourceTree = "<group>"; };
 		186AA90A21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17. LetterCombinationsOfAPhoneNumber.swift"; sourceTree = "<group>"; };
+		1892A9BD231CA688003516ED /* 121. BestTimeToBuyAndSellStock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "121. BestTimeToBuyAndSellStock.swift"; sourceTree = "<group>"; };
+		1892A9BF231CB595003516ED /* 122. BestTimeToBuyAndSellStock II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "122. BestTimeToBuyAndSellStock II.swift"; sourceTree = "<group>"; };
 		18AE5C3521E58E3A0091703F /* 746. MinCostClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "746. MinCostClimbingStairs.swift"; sourceTree = "<group>"; };
 		18B9DBA021E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "628. MaximumProductOfThreeNumbers.swift"; sourceTree = "<group>"; };
 		18B9DBA221E2E7D000D1EF23 /* 485. MaxConsecutiveOnes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "485. MaxConsecutiveOnes.swift"; sourceTree = "<group>"; };
@@ -88,6 +93,7 @@
 		18EAF75121CC8401009660C1 /* 189. RotateArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "189. RotateArray.swift"; sourceTree = "<group>"; };
 		18EAF75321CC92B3009660C1 /* 709. ToLowerCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "709. ToLowerCase.swift"; sourceTree = "<group>"; };
 		18EFB1142319014800BA8717 /* 977. SquaresOfASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "977. SquaresOfASortedArray.swift"; sourceTree = "<group>"; };
+		18EFB1162319136300BA8717 /* 217. ContainsDuplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "217. ContainsDuplicate.swift"; sourceTree = "<group>"; };
 		18F2C92C21DDB15200B3FFFA /* 1. TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. TwoSum.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -129,6 +135,9 @@
 				185EB0812317708D003474CC /* 914. XOfAKindInADeckOfCards.swift */,
 				185EB08323177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift */,
 				18EFB1142319014800BA8717 /* 977. SquaresOfASortedArray.swift */,
+				18EFB1162319136300BA8717 /* 217. ContainsDuplicate.swift */,
+				1892A9BD231CA688003516ED /* 121. BestTimeToBuyAndSellStock.swift */,
+				1892A9BF231CB595003516ED /* 122. BestTimeToBuyAndSellStock II.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -336,11 +345,14 @@
 				18052DC621D20F990086F485 /* 434. NumberOfSegmentsInAString.swift in Sources */,
 				186AA90B21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift in Sources */,
 				185EB08423177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift in Sources */,
+				18EFB1172319136300BA8717 /* 217. ContainsDuplicate.swift in Sources */,
 				18AE5C3621E58E3A0091703F /* 746. MinCostClimbingStairs.swift in Sources */,
 				18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */,
 				18EFB1152319014800BA8717 /* 977. SquaresOfASortedArray.swift in Sources */,
 				185EB0822317708D003474CC /* 914. XOfAKindInADeckOfCards.swift in Sources */,
+				1892A9C0231CB595003516ED /* 122. BestTimeToBuyAndSellStock II.swift in Sources */,
 				1814F5F521D08E4D005405E9 /* 66. PlusOne.swift in Sources */,
+				1892A9BE231CA688003516ED /* 121. BestTimeToBuyAndSellStock.swift in Sources */,
 				184E146121DEFEC300E2DD11 /* 268. MissingNumber.swift in Sources */,
 				18052DC821D220E10086F485 /* 806. NumberOfLinesToWriteString.swift in Sources */,
 				18B9DBA121E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift in Sources */,

@@ -49,12 +49,12 @@ class SquaresOfASortedArray {
         
         
 //        var result = [Int]()
-//        
+//
 //        for item in A {
 //            result.append(item * item)
 //        }
-//        
-//        
+//
+//
 //        return result.sorted()   
     }
     
