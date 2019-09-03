@@ -26,6 +26,9 @@
 		18B9DBA121E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B9DBA021E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift */; };
 		18B9DBA321E2E7D000D1EF23 /* 485. MaxConsecutiveOnes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B9DBA221E2E7D000D1EF23 /* 485. MaxConsecutiveOnes.swift */; };
 		18B9DBA521E2EB7900D1EF23 /* 905. SortArrayByParity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18B9DBA421E2EB7900D1EF23 /* 905. SortArrayByParity.swift */; };
+		18BC0F18231DF3BC00213E41 /* 136. SingleNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BC0F17231DF3BC00213E41 /* 136. SingleNumber.swift */; };
+		18BC0F1A231DF7AD00213E41 /* 70. ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BC0F19231DF7AD00213E41 /* 70. ClimbingStairs.swift */; };
+		18BC0F1C231E00C200213E41 /* 78. Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BC0F1B231E00C200213E41 /* 78. Subsets.swift */; };
 		18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72121CC8043009660C1 /* AppDelegate.swift */; };
 		18EAF72421CC8043009660C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72321CC8043009660C1 /* ViewController.swift */; };
 		18EAF72721CC8043009660C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EAF72521CC8043009660C1 /* Main.storyboard */; };
@@ -78,6 +81,9 @@
 		18B9DBA021E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "628. MaximumProductOfThreeNumbers.swift"; sourceTree = "<group>"; };
 		18B9DBA221E2E7D000D1EF23 /* 485. MaxConsecutiveOnes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "485. MaxConsecutiveOnes.swift"; sourceTree = "<group>"; };
 		18B9DBA421E2EB7900D1EF23 /* 905. SortArrayByParity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "905. SortArrayByParity.swift"; sourceTree = "<group>"; };
+		18BC0F17231DF3BC00213E41 /* 136. SingleNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "136. SingleNumber.swift"; sourceTree = "<group>"; };
+		18BC0F19231DF7AD00213E41 /* 70. ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. ClimbingStairs.swift"; sourceTree = "<group>"; };
+		18BC0F1B231E00C200213E41 /* 78. Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "78. Subsets.swift"; sourceTree = "<group>"; };
 		18EAF71E21CC8043009660C1 /* leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EAF72121CC8043009660C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18EAF72321CC8043009660C1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -141,6 +147,7 @@
 				1892A9BD231CA688003516ED /* 121. BestTimeToBuyAndSellStock.swift */,
 				1892A9BF231CB595003516ED /* 122. BestTimeToBuyAndSellStock II.swift */,
 				1892A9C1231CC025003516ED /* 169. MajorityElement.swift */,
+				18BC0F1B231E00C200213E41 /* 78. Subsets.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -176,6 +183,8 @@
 				18EAF72A21CC8047009660C1 /* LaunchScreen.storyboard */,
 				18EAF72D21CC8047009660C1 /* Info.plist */,
 				18EAF74F21CC8071009660C1 /* 796. RotateString.swift */,
+				18BC0F17231DF3BC00213E41 /* 136. SingleNumber.swift */,
+				18BC0F19231DF7AD00213E41 /* 70. ClimbingStairs.swift */,
 				18EAF75121CC8401009660C1 /* 189. RotateArray.swift */,
 				18EAF75321CC92B3009660C1 /* 709. ToLowerCase.swift */,
 				1814F5F021D07F6E005405E9 /* 344. ReverseString.swift */,
@@ -352,6 +361,8 @@
 				18AE5C3621E58E3A0091703F /* 746. MinCostClimbingStairs.swift in Sources */,
 				1892A9C2231CC025003516ED /* 169. MajorityElement.swift in Sources */,
 				18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */,
+				18BC0F1A231DF7AD00213E41 /* 70. ClimbingStairs.swift in Sources */,
+				18BC0F1C231E00C200213E41 /* 78. Subsets.swift in Sources */,
 				18EFB1152319014800BA8717 /* 977. SquaresOfASortedArray.swift in Sources */,
 				185EB0822317708D003474CC /* 914. XOfAKindInADeckOfCards.swift in Sources */,
 				1892A9C0231CB595003516ED /* 122. BestTimeToBuyAndSellStock II.swift in Sources */,
@@ -360,6 +371,7 @@
 				184E146121DEFEC300E2DD11 /* 268. MissingNumber.swift in Sources */,
 				18052DC821D220E10086F485 /* 806. NumberOfLinesToWriteString.swift in Sources */,
 				18B9DBA121E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift in Sources */,
+				18BC0F18231DF3BC00213E41 /* 136. SingleNumber.swift in Sources */,
 				18EAF75021CC8071009660C1 /* 796. RotateString.swift in Sources */,
 				18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */,
 				182EDDD821DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift in Sources */,

@@ -17,7 +17,7 @@ class ViewController: UIViewController {
        
 //        let sss = XOfAKindInADeckOfCards().hasGroupsSizeX([1, 2, 1, 2])
 //        print(sss)
-        let result = BestTimeToBuyAndSellStock().maxProfit([2,4,1])
+        let result = ClimbingStairs().climbStairs(44)
 //        let result = ContainsDuplicate().containsDuplicate([1, 2, 3, 1])
         print(result)
     }
