@@ -11,6 +11,7 @@
 		18052DC821D220E10086F485 /* 806. NumberOfLinesToWriteString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18052DC721D220E10086F485 /* 806. NumberOfLinesToWriteString.swift */; };
 		1814F1BB23209E70002E1825 /* 231. PowerOfTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F1BA23209E70002E1825 /* 231. PowerOfTwo.swift */; };
 		1814F1BD23209FA4002E1825 /* 155. MinStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F1BC23209FA4002E1825 /* 155. MinStack.swift */; };
+		1814F1BF2320B005002E1825 /* 292. NimGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F1BE2320B005002E1825 /* 292. NimGame.swift */; };
 		1814F5F121D07F6E005405E9 /* 344. ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F021D07F6E005405E9 /* 344. ReverseString.swift */; };
 		1814F5F321D08149005405E9 /* 557. ReverseWordsinaStringIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F221D08149005405E9 /* 557. ReverseWordsinaStringIII.swift */; };
 		1814F5F521D08E4D005405E9 /* 66. PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F421D08E4D005405E9 /* 66. PlusOne.swift */; };
@@ -69,6 +70,7 @@
 		18052DC721D220E10086F485 /* 806. NumberOfLinesToWriteString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "806. NumberOfLinesToWriteString.swift"; sourceTree = "<group>"; };
 		1814F1BA23209E70002E1825 /* 231. PowerOfTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "231. PowerOfTwo.swift"; sourceTree = "<group>"; };
 		1814F1BC23209FA4002E1825 /* 155. MinStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "155. MinStack.swift"; sourceTree = "<group>"; };
+		1814F1BE2320B005002E1825 /* 292. NimGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "292. NimGame.swift"; sourceTree = "<group>"; };
 		1814F5F021D07F6E005405E9 /* 344. ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "344. ReverseString.swift"; sourceTree = "<group>"; };
 		1814F5F221D08149005405E9 /* 557. ReverseWordsinaStringIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "557. ReverseWordsinaStringIII.swift"; sourceTree = "<group>"; };
 		1814F5F421D08E4D005405E9 /* 66. PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "66. PlusOne.swift"; sourceTree = "<group>"; };
@@ -189,6 +191,7 @@
 				18EAF72A21CC8047009660C1 /* LaunchScreen.storyboard */,
 				18EAF72D21CC8047009660C1 /* Info.plist */,
 				18EAF74F21CC8071009660C1 /* 796. RotateString.swift */,
+				1814F1BE2320B005002E1825 /* 292. NimGame.swift */,
 				181795FA231F4B930043074A /* 206. ReverseLinkedList.swift */,
 				1814F1BA23209E70002E1825 /* 231. PowerOfTwo.swift */,
 				1814F1BC23209FA4002E1825 /* 155. MinStack.swift */,
@@ -359,6 +362,7 @@
 			files = (
 				18EAF72421CC8043009660C1 /* ViewController.swift in Sources */,
 				184E146321DF034400E2DD11 /* 414. ThirdMaximumNumber.swift in Sources */,
+				1814F1BF2320B005002E1825 /* 292. NimGame.swift in Sources */,
 				1814F1BD23209FA4002E1825 /* 155. MinStack.swift in Sources */,
 				1814F5F321D08149005405E9 /* 557. ReverseWordsinaStringIII.swift in Sources */,
 				18F2C92D21DDB15200B3FFFA /* 1. TwoSum.swift in Sources */,
