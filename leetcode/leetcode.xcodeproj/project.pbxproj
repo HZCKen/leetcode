@@ -9,9 +9,12 @@
 /* Begin PBXBuildFile section */
 		18052DC621D20F990086F485 /* 434. NumberOfSegmentsInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18052DC521D20F990086F485 /* 434. NumberOfSegmentsInAString.swift */; };
 		18052DC821D220E10086F485 /* 806. NumberOfLinesToWriteString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18052DC721D220E10086F485 /* 806. NumberOfLinesToWriteString.swift */; };
+		1814F1BB23209E70002E1825 /* 231. PowerOfTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F1BA23209E70002E1825 /* 231. PowerOfTwo.swift */; };
+		1814F1BD23209FA4002E1825 /* 155. MinStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F1BC23209FA4002E1825 /* 155. MinStack.swift */; };
 		1814F5F121D07F6E005405E9 /* 344. ReverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F021D07F6E005405E9 /* 344. ReverseString.swift */; };
 		1814F5F321D08149005405E9 /* 557. ReverseWordsinaStringIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F221D08149005405E9 /* 557. ReverseWordsinaStringIII.swift */; };
 		1814F5F521D08E4D005405E9 /* 66. PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F421D08E4D005405E9 /* 66. PlusOne.swift */; };
+		181795FB231F4B930043074A /* 206. ReverseLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181795FA231F4B930043074A /* 206. ReverseLinkedList.swift */; };
 		182EDDD821DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */; };
 		184E145F21DEFB1A00E2DD11 /* 283. MoveZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184E145E21DEFB1A00E2DD11 /* 283. MoveZeroes.swift */; };
 		184E146121DEFEC300E2DD11 /* 268. MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184E146021DEFEC300E2DD11 /* 268. MissingNumber.swift */; };
@@ -64,9 +67,12 @@
 /* Begin PBXFileReference section */
 		18052DC521D20F990086F485 /* 434. NumberOfSegmentsInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "434. NumberOfSegmentsInAString.swift"; sourceTree = "<group>"; };
 		18052DC721D220E10086F485 /* 806. NumberOfLinesToWriteString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "806. NumberOfLinesToWriteString.swift"; sourceTree = "<group>"; };
+		1814F1BA23209E70002E1825 /* 231. PowerOfTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "231. PowerOfTwo.swift"; sourceTree = "<group>"; };
+		1814F1BC23209FA4002E1825 /* 155. MinStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "155. MinStack.swift"; sourceTree = "<group>"; };
 		1814F5F021D07F6E005405E9 /* 344. ReverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "344. ReverseString.swift"; sourceTree = "<group>"; };
 		1814F5F221D08149005405E9 /* 557. ReverseWordsinaStringIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "557. ReverseWordsinaStringIII.swift"; sourceTree = "<group>"; };
 		1814F5F421D08E4D005405E9 /* 66. PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "66. PlusOne.swift"; sourceTree = "<group>"; };
+		181795FA231F4B930043074A /* 206. ReverseLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. ReverseLinkedList.swift"; sourceTree = "<group>"; };
 		182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "831. MaskingPersonalInformation.swift"; sourceTree = "<group>"; };
 		184E145E21DEFB1A00E2DD11 /* 283. MoveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283. MoveZeroes.swift"; sourceTree = "<group>"; };
 		184E146021DEFEC300E2DD11 /* 268. MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "268. MissingNumber.swift"; sourceTree = "<group>"; };
@@ -183,6 +189,9 @@
 				18EAF72A21CC8047009660C1 /* LaunchScreen.storyboard */,
 				18EAF72D21CC8047009660C1 /* Info.plist */,
 				18EAF74F21CC8071009660C1 /* 796. RotateString.swift */,
+				181795FA231F4B930043074A /* 206. ReverseLinkedList.swift */,
+				1814F1BA23209E70002E1825 /* 231. PowerOfTwo.swift */,
+				1814F1BC23209FA4002E1825 /* 155. MinStack.swift */,
 				18BC0F17231DF3BC00213E41 /* 136. SingleNumber.swift */,
 				18BC0F19231DF7AD00213E41 /* 70. ClimbingStairs.swift */,
 				18EAF75121CC8401009660C1 /* 189. RotateArray.swift */,
@@ -350,12 +359,14 @@
 			files = (
 				18EAF72421CC8043009660C1 /* ViewController.swift in Sources */,
 				184E146321DF034400E2DD11 /* 414. ThirdMaximumNumber.swift in Sources */,
+				1814F1BD23209FA4002E1825 /* 155. MinStack.swift in Sources */,
 				1814F5F321D08149005405E9 /* 557. ReverseWordsinaStringIII.swift in Sources */,
 				18F2C92D21DDB15200B3FFFA /* 1. TwoSum.swift in Sources */,
 				18B9DBA521E2EB7900D1EF23 /* 905. SortArrayByParity.swift in Sources */,
 				1814F5F121D07F6E005405E9 /* 344. ReverseString.swift in Sources */,
 				18052DC621D20F990086F485 /* 434. NumberOfSegmentsInAString.swift in Sources */,
 				186AA90B21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift in Sources */,
+				181795FB231F4B930043074A /* 206. ReverseLinkedList.swift in Sources */,
 				185EB08423177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift in Sources */,
 				18EFB1172319136300BA8717 /* 217. ContainsDuplicate.swift in Sources */,
 				18AE5C3621E58E3A0091703F /* 746. MinCostClimbingStairs.swift in Sources */,
@@ -363,6 +374,7 @@
 				18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */,
 				18BC0F1A231DF7AD00213E41 /* 70. ClimbingStairs.swift in Sources */,
 				18BC0F1C231E00C200213E41 /* 78. Subsets.swift in Sources */,
+				1814F1BB23209E70002E1825 /* 231. PowerOfTwo.swift in Sources */,
 				18EFB1152319014800BA8717 /* 977. SquaresOfASortedArray.swift in Sources */,
 				185EB0822317708D003474CC /* 914. XOfAKindInADeckOfCards.swift in Sources */,
 				1892A9C0231CB595003516ED /* 122. BestTimeToBuyAndSellStock II.swift in Sources */,

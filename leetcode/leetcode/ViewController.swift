@@ -17,9 +17,25 @@ class ViewController: UIViewController {
        
 //        let sss = XOfAKindInADeckOfCards().hasGroupsSizeX([1, 2, 1, 2])
 //        print(sss)
-        let result = ClimbingStairs().climbStairs(44)
-//        let result = ContainsDuplicate().containsDuplicate([1, 2, 3, 1])
-        print(result)
+//        let result = ClimbingStairs().climbStairs(44)
+////        let result = ContainsDuplicate().containsDuplicate([1, 2, 3, 1])
+//        print(result)
+        
+        let minStack = MinStack()
+        minStack.push(2)
+        minStack.push(0)
+        minStack.push(3)
+        var min = minStack.getMin()
+        print(min)
+        minStack.pop()
+        min = minStack.getMin()
+        print(min)
+        minStack.pop()
+        min = minStack.getMin()
+        print(min)
+        minStack.pop()
+        min = minStack.getMin()
+        print(min)
     }
 
     override func didReceiveMemoryWarning() {
