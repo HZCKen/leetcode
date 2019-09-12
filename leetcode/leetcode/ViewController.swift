@@ -37,7 +37,7 @@ class ViewController: UIViewController {
 //        min = minStack.getMin()
 //        print(min)
         
-        let result = ProductOfArrayExceptSelf().productExceptSelf([1, 2, 3, 4])
+        let result = threeSum().threeSum([-1, 0, 1, 2, -1, -4])
         print(result)
     }
 
