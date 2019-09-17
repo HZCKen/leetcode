@@ -37,7 +37,7 @@ class ViewController: UIViewController {
 //        min = minStack.getMin()
 //        print(min)
         
-        let result = threeSum().threeSum([-1, 0, 1, 2, -1, -4])
+        let result = DefangingAnIPAddress().defangIPaddr("1.1.1.1")
         print(result)
     }
 
