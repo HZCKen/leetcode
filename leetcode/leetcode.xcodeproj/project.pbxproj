@@ -18,6 +18,7 @@
 		1814F5F521D08E4D005405E9 /* 66. PlusOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F5F421D08E4D005405E9 /* 66. PlusOne.swift */; };
 		181795FB231F4B930043074A /* 206. ReverseLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181795FA231F4B930043074A /* 206. ReverseLinkedList.swift */; };
 		1818CD2123307A6800487FDE /* 1108. DefangingAnIPAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1818CD2023307A6800487FDE /* 1108. DefangingAnIPAddress.swift */; };
+		1818CD23233082AE00487FDE /* 29. DivideTwoIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1818CD22233082AE00487FDE /* 29. DivideTwoIntegers.swift */; };
 		182EDDD821DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */; };
 		184E145F21DEFB1A00E2DD11 /* 283. MoveZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184E145E21DEFB1A00E2DD11 /* 283. MoveZeroes.swift */; };
 		184E146121DEFEC300E2DD11 /* 268. MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184E146021DEFEC300E2DD11 /* 268. MissingNumber.swift */; };
@@ -83,6 +84,7 @@
 		1814F5F421D08E4D005405E9 /* 66. PlusOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "66. PlusOne.swift"; sourceTree = "<group>"; };
 		181795FA231F4B930043074A /* 206. ReverseLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. ReverseLinkedList.swift"; sourceTree = "<group>"; };
 		1818CD2023307A6800487FDE /* 1108. DefangingAnIPAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1108. DefangingAnIPAddress.swift"; sourceTree = "<group>"; };
+		1818CD22233082AE00487FDE /* 29. DivideTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "29. DivideTwoIntegers.swift"; sourceTree = "<group>"; };
 		182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "831. MaskingPersonalInformation.swift"; sourceTree = "<group>"; };
 		184E145E21DEFB1A00E2DD11 /* 283. MoveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283. MoveZeroes.swift"; sourceTree = "<group>"; };
 		184E146021DEFEC300E2DD11 /* 268. MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "268. MissingNumber.swift"; sourceTree = "<group>"; };
@@ -208,6 +210,7 @@
 				18A9A9CB2329E0A500A30408 /* 104. MaximumDepthOfBinaryTree.swift */,
 				181795FA231F4B930043074A /* 206. ReverseLinkedList.swift */,
 				1818CD2023307A6800487FDE /* 1108. DefangingAnIPAddress.swift */,
+				1818CD22233082AE00487FDE /* 29. DivideTwoIntegers.swift */,
 				1814F1BA23209E70002E1825 /* 231. PowerOfTwo.swift */,
 				1814F1BC23209FA4002E1825 /* 155. MinStack.swift */,
 				18BC0F17231DF3BC00213E41 /* 136. SingleNumber.swift */,
@@ -415,6 +418,7 @@
 				184E145F21DEFB1A00E2DD11 /* 283. MoveZeroes.swift in Sources */,
 				18B9DBA321E2E7D000D1EF23 /* 485. MaxConsecutiveOnes.swift in Sources */,
 				18EAF75221CC8401009660C1 /* 189. RotateArray.swift in Sources */,
+				1818CD23233082AE00487FDE /* 29. DivideTwoIntegers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -37,7 +37,7 @@ class ViewController: UIViewController {
 //        min = minStack.getMin()
 //        print(min)
         
-        let result = DefangingAnIPAddress().defangIPaddr("1.1.1.1")
+        let result = DivideTwoIntegers().divide(-2147483648, -1)
         print(result)
     }
 
