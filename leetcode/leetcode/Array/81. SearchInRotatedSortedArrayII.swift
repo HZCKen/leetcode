@@ -47,7 +47,7 @@ class SearchInRotatedSortedArrayII {
         var left = 0
         var right = nums.count - 1
         
-        while left < right {
+        while left <= right {
             let leftNum = nums[left]
             let rightNum = nums[right]
             
