@@ -43,6 +43,7 @@
 		18BC0F1A231DF7AD00213E41 /* 70. ClimbingStairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BC0F19231DF7AD00213E41 /* 70. ClimbingStairs.swift */; };
 		18BC0F1C231E00C200213E41 /* 78. Subsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18BC0F1B231E00C200213E41 /* 78. Subsets.swift */; };
 		18C05A4D23330B2500DBCC0F /* 81. SearchInRotatedSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C05A4C23330B2500DBCC0F /* 81. SearchInRotatedSortedArrayII.swift */; };
+		18CF43FB233AF0D200FAA0A9 /* 275. HIndexII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CF43FA233AF0D200FAA0A9 /* 275. HIndexII.swift */; };
 		18D011C12339FDF600F42E38 /* 240. SearchA2DMatrix2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D011C02339FDF600F42E38 /* 240. SearchA2DMatrix2.swift */; };
 		18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72121CC8043009660C1 /* AppDelegate.swift */; };
 		18EAF72421CC8043009660C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72321CC8043009660C1 /* ViewController.swift */; };
@@ -112,6 +113,7 @@
 		18BC0F19231DF7AD00213E41 /* 70. ClimbingStairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "70. ClimbingStairs.swift"; sourceTree = "<group>"; };
 		18BC0F1B231E00C200213E41 /* 78. Subsets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "78. Subsets.swift"; sourceTree = "<group>"; };
 		18C05A4C23330B2500DBCC0F /* 81. SearchInRotatedSortedArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "81. SearchInRotatedSortedArrayII.swift"; sourceTree = "<group>"; };
+		18CF43FA233AF0D200FAA0A9 /* 275. HIndexII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "275. HIndexII.swift"; sourceTree = "<group>"; };
 		18D011C02339FDF600F42E38 /* 240. SearchA2DMatrix2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "240. SearchA2DMatrix2.swift"; sourceTree = "<group>"; };
 		18EAF71E21CC8043009660C1 /* leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EAF72121CC8043009660C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -223,6 +225,7 @@
 				1818CD22233082AE00487FDE /* 29. DivideTwoIntegers.swift */,
 				184A0B582331C62B0095BC2A /* 74. SearchA2DMatrix.swift */,
 				18D011C02339FDF600F42E38 /* 240. SearchA2DMatrix2.swift */,
+				18CF43FA233AF0D200FAA0A9 /* 275. HIndexII.swift */,
 				1814F1BA23209E70002E1825 /* 231. PowerOfTwo.swift */,
 				1814F1BC23209FA4002E1825 /* 155. MinStack.swift */,
 				18BC0F17231DF3BC00213E41 /* 136. SingleNumber.swift */,
@@ -412,6 +415,7 @@
 				18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */,
 				18BC0F1A231DF7AD00213E41 /* 70. ClimbingStairs.swift in Sources */,
 				18BC0F1C231E00C200213E41 /* 78. Subsets.swift in Sources */,
+				18CF43FB233AF0D200FAA0A9 /* 275. HIndexII.swift in Sources */,
 				1814F1BB23209E70002E1825 /* 231. PowerOfTwo.swift in Sources */,
 				184A0B592331C62B0095BC2A /* 74. SearchA2DMatrix.swift in Sources */,
 				18EFB1152319014800BA8717 /* 977. SquaresOfASortedArray.swift in Sources */,

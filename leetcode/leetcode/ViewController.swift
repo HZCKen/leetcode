@@ -37,8 +37,8 @@ class ViewController: UIViewController {
 //        min = minStack.getMin()
 //        print(min)
         
-//        let result = DungeonGame().calculateMinimumHP([[-2,-3,3],[-5,-10,1],[10,30,-5]])
-//        print(result)
+        let result = HIndexII().hIndex([0,1,3,5,6])
+        print(result)
     }
 
     override func didReceiveMemoryWarning() {
