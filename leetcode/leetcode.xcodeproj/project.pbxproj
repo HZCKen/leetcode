@@ -20,6 +20,8 @@
 		181795FB231F4B930043074A /* 206. ReverseLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181795FA231F4B930043074A /* 206. ReverseLinkedList.swift */; };
 		1818CD2123307A6800487FDE /* 1108. DefangingAnIPAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1818CD2023307A6800487FDE /* 1108. DefangingAnIPAddress.swift */; };
 		1818CD23233082AE00487FDE /* 29. DivideTwoIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1818CD22233082AE00487FDE /* 29. DivideTwoIntegers.swift */; };
+		182D70EB233C4D5A000EC62D /* 326. PowerOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182D70EA233C4D5A000EC62D /* 326. PowerOfThree.swift */; };
+		182D70ED233C4EF7000EC62D /* 342. PowerOfFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182D70EC233C4EF7000EC62D /* 342. PowerOfFour.swift */; };
 		182EDDD821DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */; };
 		184A0B592331C62B0095BC2A /* 74. SearchA2DMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184A0B582331C62B0095BC2A /* 74. SearchA2DMatrix.swift */; };
 		184E145F21DEFB1A00E2DD11 /* 283. MoveZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184E145E21DEFB1A00E2DD11 /* 283. MoveZeroes.swift */; };
@@ -91,6 +93,8 @@
 		181795FA231F4B930043074A /* 206. ReverseLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. ReverseLinkedList.swift"; sourceTree = "<group>"; };
 		1818CD2023307A6800487FDE /* 1108. DefangingAnIPAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1108. DefangingAnIPAddress.swift"; sourceTree = "<group>"; };
 		1818CD22233082AE00487FDE /* 29. DivideTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "29. DivideTwoIntegers.swift"; sourceTree = "<group>"; };
+		182D70EA233C4D5A000EC62D /* 326. PowerOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "326. PowerOfThree.swift"; sourceTree = "<group>"; };
+		182D70EC233C4EF7000EC62D /* 342. PowerOfFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "342. PowerOfFour.swift"; sourceTree = "<group>"; };
 		182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "831. MaskingPersonalInformation.swift"; sourceTree = "<group>"; };
 		184A0B582331C62B0095BC2A /* 74. SearchA2DMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. SearchA2DMatrix.swift"; sourceTree = "<group>"; };
 		184E145E21DEFB1A00E2DD11 /* 283. MoveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283. MoveZeroes.swift"; sourceTree = "<group>"; };
@@ -227,6 +231,8 @@
 				18D011C02339FDF600F42E38 /* 240. SearchA2DMatrix2.swift */,
 				18CF43FA233AF0D200FAA0A9 /* 275. HIndexII.swift */,
 				1814F1BA23209E70002E1825 /* 231. PowerOfTwo.swift */,
+				182D70EA233C4D5A000EC62D /* 326. PowerOfThree.swift */,
+				182D70EC233C4EF7000EC62D /* 342. PowerOfFour.swift */,
 				1814F1BC23209FA4002E1825 /* 155. MinStack.swift */,
 				18BC0F17231DF3BC00213E41 /* 136. SingleNumber.swift */,
 				18BC0F19231DF7AD00213E41 /* 70. ClimbingStairs.swift */,
@@ -399,6 +405,8 @@
 				1814F1BF2320B005002E1825 /* 292. NimGame.swift in Sources */,
 				1814F1BD23209FA4002E1825 /* 155. MinStack.swift in Sources */,
 				1814F5F321D08149005405E9 /* 557. ReverseWordsinaStringIII.swift in Sources */,
+				182D70ED233C4EF7000EC62D /* 342. PowerOfFour.swift in Sources */,
+				182D70EB233C4D5A000EC62D /* 326. PowerOfThree.swift in Sources */,
 				18F2C92D21DDB15200B3FFFA /* 1. TwoSum.swift in Sources */,
 				18B9DBA521E2EB7900D1EF23 /* 905. SortArrayByParity.swift in Sources */,
 				1814F5F121D07F6E005405E9 /* 344. ReverseString.swift in Sources */,
