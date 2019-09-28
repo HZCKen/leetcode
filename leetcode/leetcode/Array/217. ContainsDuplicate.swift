@@ -28,21 +28,41 @@ class ContainsDuplicate {
 //    输入: [1,1,1,3,3,4,3,2,4,2]
 //    输出: true
 
+    //解法1
+//    func containsDuplicate(_ nums: [Int]) -> Bool {
+//
+//        if nums.isEmpty{
+//
+//            return false
+//        }
+//
+//        if nums.count == 2 {
+//            return nums.first == nums.last
+//        }
+//
+//        let temp:Set = Set(nums)
+//
+//        return temp.count != nums.count
+//    }
     
+    //解法2
     func containsDuplicate(_ nums: [Int]) -> Bool {
         
         if nums.isEmpty{
             
             return false
         }
+        var dict = [Int : Int]()
         
-        if nums.count == 2 {
-            return nums.first == nums.last
+        for num in nums {
+            if dict[num] == nil {
+                dict[num] = 1
+            } else {
+                return true
+            }
         }
         
-        let temp:Set = Set(nums)
-        
-        return temp.count != nums.count
+        return false
     }
     
 }

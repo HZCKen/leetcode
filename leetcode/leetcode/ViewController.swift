@@ -37,7 +37,7 @@ class ViewController: UIViewController {
 //        min = minStack.getMin()
 //        print(min)
         
-        let result = HIndexII().hIndex([0,1,3,5,6])
+        let result = ContainsDuplicateII().containsNearbyDuplicate([1,2,3,1], 3)
         print(result)
     }
 
