@@ -37,6 +37,8 @@
 		1892A9BE231CA688003516ED /* 121. BestTimeToBuyAndSellStock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1892A9BD231CA688003516ED /* 121. BestTimeToBuyAndSellStock.swift */; };
 		1892A9C0231CB595003516ED /* 122. BestTimeToBuyAndSellStock II.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1892A9BF231CB595003516ED /* 122. BestTimeToBuyAndSellStock II.swift */; };
 		1892A9C2231CC025003516ED /* 169. MajorityElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1892A9C1231CC025003516ED /* 169. MajorityElement.swift */; };
+		1897176123403E2500CA52A7 /* 303. RangeSumQueryImmutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1897176023403E2500CA52A7 /* 303. RangeSumQueryImmutable.swift */; };
+		18971763234041F500CA52A7 /* 287. FindTheDuplicateNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18971762234041F500CA52A7 /* 287. FindTheDuplicateNumber.swift */; };
 		18A9A9CC2329E0A500A30408 /* 104. MaximumDepthOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A9A9CB2329E0A500A30408 /* 104. MaximumDepthOfBinaryTree.swift */; };
 		18A9A9CE2329E89A00A30408 /* 238. ProductOfArrayExceptSelf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A9A9CD2329E89A00A30408 /* 238. ProductOfArrayExceptSelf.swift */; };
 		18A9A9D2232A2C9600A30408 /* 15. 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A9A9D1232A2C9600A30408 /* 15. 3Sum.swift */; };
@@ -112,6 +114,8 @@
 		1892A9BD231CA688003516ED /* 121. BestTimeToBuyAndSellStock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "121. BestTimeToBuyAndSellStock.swift"; sourceTree = "<group>"; };
 		1892A9BF231CB595003516ED /* 122. BestTimeToBuyAndSellStock II.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "122. BestTimeToBuyAndSellStock II.swift"; sourceTree = "<group>"; };
 		1892A9C1231CC025003516ED /* 169. MajorityElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "169. MajorityElement.swift"; sourceTree = "<group>"; };
+		1897176023403E2500CA52A7 /* 303. RangeSumQueryImmutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "303. RangeSumQueryImmutable.swift"; sourceTree = "<group>"; };
+		18971762234041F500CA52A7 /* 287. FindTheDuplicateNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "287. FindTheDuplicateNumber.swift"; sourceTree = "<group>"; };
 		18A9A9CB2329E0A500A30408 /* 104. MaximumDepthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. MaximumDepthOfBinaryTree.swift"; sourceTree = "<group>"; };
 		18A9A9CD2329E89A00A30408 /* 238. ProductOfArrayExceptSelf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "238. ProductOfArrayExceptSelf.swift"; sourceTree = "<group>"; };
 		18A9A9D1232A2C9600A30408 /* 15. 3Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 3Sum.swift"; sourceTree = "<group>"; };
@@ -193,6 +197,8 @@
 				1892A9C1231CC025003516ED /* 169. MajorityElement.swift */,
 				18BC0F1B231E00C200213E41 /* 78. Subsets.swift */,
 				1813AE2A23345D8800F9DC35 /* 162. FindPeakElement.swift */,
+				1897176023403E2500CA52A7 /* 303. RangeSumQueryImmutable.swift */,
+				18971762234041F500CA52A7 /* 287. FindTheDuplicateNumber.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -436,6 +442,7 @@
 				18BC0F1A231DF7AD00213E41 /* 70. ClimbingStairs.swift in Sources */,
 				18BC0F1C231E00C200213E41 /* 78. Subsets.swift in Sources */,
 				18CF43FB233AF0D200FAA0A9 /* 275. HIndexII.swift in Sources */,
+				18971763234041F500CA52A7 /* 287. FindTheDuplicateNumber.swift in Sources */,
 				1814F1BB23209E70002E1825 /* 231. PowerOfTwo.swift in Sources */,
 				184A0B592331C62B0095BC2A /* 74. SearchA2DMatrix.swift in Sources */,
 				18EFB1152319014800BA8717 /* 977. SquaresOfASortedArray.swift in Sources */,
@@ -445,6 +452,7 @@
 				1814F5F521D08E4D005405E9 /* 66. PlusOne.swift in Sources */,
 				1892A9BE231CA688003516ED /* 121. BestTimeToBuyAndSellStock.swift in Sources */,
 				184E146121DEFEC300E2DD11 /* 268. MissingNumber.swift in Sources */,
+				1897176123403E2500CA52A7 /* 303. RangeSumQueryImmutable.swift in Sources */,
 				18A9A9CC2329E0A500A30408 /* 104. MaximumDepthOfBinaryTree.swift in Sources */,
 				18052DC821D220E10086F485 /* 806. NumberOfLinesToWriteString.swift in Sources */,
 				18B9DBA121E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift in Sources */,
