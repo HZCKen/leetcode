@@ -66,6 +66,7 @@
 		18EFB1152319014800BA8717 /* 977. SquaresOfASortedArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EFB1142319014800BA8717 /* 977. SquaresOfASortedArray.swift */; };
 		18EFB1172319136300BA8717 /* 217. ContainsDuplicate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EFB1162319136300BA8717 /* 217. ContainsDuplicate.swift */; };
 		18F2C92D21DDB15200B3FFFA /* 1. TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F2C92C21DDB15200B3FFFA /* 1. TwoSum.swift */; };
+		BE27692323433DB50000FF56 /* 349. IntersectionOfTwoArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE27692223433DB50000FF56 /* 349. IntersectionOfTwoArrays.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -150,6 +151,7 @@
 		18EFB1142319014800BA8717 /* 977. SquaresOfASortedArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "977. SquaresOfASortedArray.swift"; sourceTree = "<group>"; };
 		18EFB1162319136300BA8717 /* 217. ContainsDuplicate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "217. ContainsDuplicate.swift"; sourceTree = "<group>"; };
 		18F2C92C21DDB15200B3FFFA /* 1. TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. TwoSum.swift"; sourceTree = "<group>"; };
+		BE27692223433DB50000FF56 /* 349. IntersectionOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "349. IntersectionOfTwoArrays.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -202,6 +204,7 @@
 				1897176023403E2500CA52A7 /* 303. RangeSumQueryImmutable.swift */,
 				18971762234041F500CA52A7 /* 287. FindTheDuplicateNumber.swift */,
 				18A408B12341916E00DF4D18 /* 509. FibonacciNumber.swift */,
+				BE27692223433DB50000FF56 /* 349. IntersectionOfTwoArrays.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -443,6 +446,7 @@
 				1892A9C2231CC025003516ED /* 169. MajorityElement.swift in Sources */,
 				187C1A91233EE3CF00FDA6CA /* 219. ContainsDuplicateII.swift in Sources */,
 				18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */,
+				BE27692323433DB50000FF56 /* 349. IntersectionOfTwoArrays.swift in Sources */,
 				18BC0F1A231DF7AD00213E41 /* 70. ClimbingStairs.swift in Sources */,
 				18BC0F1C231E00C200213E41 /* 78. Subsets.swift in Sources */,
 				18CF43FB233AF0D200FAA0A9 /* 275. HIndexII.swift in Sources */,
