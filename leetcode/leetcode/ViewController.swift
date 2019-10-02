@@ -36,8 +36,8 @@ class ViewController: UIViewController {
 //        minStack.pop()
 //        min = minStack.getMin()
 //        print(min)
-        
-        let result = ContainsDuplicateIII().containsNearbyAlmostDuplicate([1,5,9,1,5,9], 2, 3)
+        var temp = [1,1,1,1]
+        let result = RemoveDuplicatesFromSortedArrayII().removeDuplicates(&temp)
         print(result)
     }
 
