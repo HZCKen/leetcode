@@ -68,6 +68,7 @@
 		18F2C92D21DDB15200B3FFFA /* 1. TwoSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18F2C92C21DDB15200B3FFFA /* 1. TwoSum.swift */; };
 		BE27692323433DB50000FF56 /* 349. IntersectionOfTwoArrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE27692223433DB50000FF56 /* 349. IntersectionOfTwoArrays.swift */; };
 		BEAA15782344277B001D265F /* 80. RemoveDuplicatesFromSortedArrayII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEAA15772344277B001D265F /* 80. RemoveDuplicatesFromSortedArrayII.swift */; };
+		BEAA157A23478AA9001D265F /* 922. SortArrayByParityII.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEAA157923478AA9001D265F /* 922. SortArrayByParityII.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -154,6 +155,7 @@
 		18F2C92C21DDB15200B3FFFA /* 1. TwoSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. TwoSum.swift"; sourceTree = "<group>"; };
 		BE27692223433DB50000FF56 /* 349. IntersectionOfTwoArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "349. IntersectionOfTwoArrays.swift"; sourceTree = "<group>"; };
 		BEAA15772344277B001D265F /* 80. RemoveDuplicatesFromSortedArrayII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "80. RemoveDuplicatesFromSortedArrayII.swift"; sourceTree = "<group>"; };
+		BEAA157923478AA9001D265F /* 922. SortArrayByParityII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "922. SortArrayByParityII.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -208,6 +210,7 @@
 				18A408B12341916E00DF4D18 /* 509. FibonacciNumber.swift */,
 				BE27692223433DB50000FF56 /* 349. IntersectionOfTwoArrays.swift */,
 				BEAA15772344277B001D265F /* 80. RemoveDuplicatesFromSortedArrayII.swift */,
+				BEAA157923478AA9001D265F /* 922. SortArrayByParityII.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -473,6 +476,7 @@
 				18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */,
 				BEAA15782344277B001D265F /* 80. RemoveDuplicatesFromSortedArrayII.swift in Sources */,
 				182EDDD821DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift in Sources */,
+				BEAA157A23478AA9001D265F /* 922. SortArrayByParityII.swift in Sources */,
 				184E145F21DEFB1A00E2DD11 /* 283. MoveZeroes.swift in Sources */,
 				18B9DBA321E2E7D000D1EF23 /* 485. MaxConsecutiveOnes.swift in Sources */,
 				18EAF75221CC8401009660C1 /* 189. RotateArray.swift in Sources */,
