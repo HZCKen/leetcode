@@ -37,7 +37,7 @@ class ViewController: UIViewController {
 //        min = minStack.getMin()
 //        print(min)
         
-        let result = ContainsDuplicateIII().containsNearbyAlmostDuplicate([1,5,9,1,5,9], 2, 3)
+        let result = FindRightInterval().findRightInterval([[4,5],[2,3],[1,2]])
         print(result)
     }
 

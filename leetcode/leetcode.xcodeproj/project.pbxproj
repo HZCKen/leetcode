@@ -20,6 +20,8 @@
 		181795FB231F4B930043074A /* 206. ReverseLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181795FA231F4B930043074A /* 206. ReverseLinkedList.swift */; };
 		1818CD2123307A6800487FDE /* 1108. DefangingAnIPAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1818CD2023307A6800487FDE /* 1108. DefangingAnIPAddress.swift */; };
 		1818CD23233082AE00487FDE /* 29. DivideTwoIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1818CD22233082AE00487FDE /* 29. DivideTwoIntegers.swift */; };
+		1819FD27234C18AA00F299A4 /* 436. FindRightInterval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1819FD26234C18AA00F299A4 /* 436. FindRightInterval.swift */; };
+		1819FD29234C8BB700F299A4 /* 747. LargestNumberAtLeastTwiceOfOthers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1819FD28234C8BB700F299A4 /* 747. LargestNumberAtLeastTwiceOfOthers.swift */; };
 		182D70EB233C4D5A000EC62D /* 326. PowerOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182D70EA233C4D5A000EC62D /* 326. PowerOfThree.swift */; };
 		182D70ED233C4EF7000EC62D /* 342. PowerOfFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182D70EC233C4EF7000EC62D /* 342. PowerOfFour.swift */; };
 		182EDDD821DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */; };
@@ -99,6 +101,8 @@
 		181795FA231F4B930043074A /* 206. ReverseLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "206. ReverseLinkedList.swift"; sourceTree = "<group>"; };
 		1818CD2023307A6800487FDE /* 1108. DefangingAnIPAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1108. DefangingAnIPAddress.swift"; sourceTree = "<group>"; };
 		1818CD22233082AE00487FDE /* 29. DivideTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "29. DivideTwoIntegers.swift"; sourceTree = "<group>"; };
+		1819FD26234C18AA00F299A4 /* 436. FindRightInterval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "436. FindRightInterval.swift"; sourceTree = "<group>"; };
+		1819FD28234C8BB700F299A4 /* 747. LargestNumberAtLeastTwiceOfOthers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "747. LargestNumberAtLeastTwiceOfOthers.swift"; sourceTree = "<group>"; };
 		182D70EA233C4D5A000EC62D /* 326. PowerOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "326. PowerOfThree.swift"; sourceTree = "<group>"; };
 		182D70EC233C4EF7000EC62D /* 342. PowerOfFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "342. PowerOfFour.swift"; sourceTree = "<group>"; };
 		182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "831. MaskingPersonalInformation.swift"; sourceTree = "<group>"; };
@@ -202,6 +206,7 @@
 				1897176023403E2500CA52A7 /* 303. RangeSumQueryImmutable.swift */,
 				18971762234041F500CA52A7 /* 287. FindTheDuplicateNumber.swift */,
 				18A408B12341916E00DF4D18 /* 509. FibonacciNumber.swift */,
+				1819FD28234C8BB700F299A4 /* 747. LargestNumberAtLeastTwiceOfOthers.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -237,6 +242,7 @@
 				18EAF72A21CC8047009660C1 /* LaunchScreen.storyboard */,
 				18EAF72D21CC8047009660C1 /* Info.plist */,
 				18EAF74F21CC8071009660C1 /* 796. RotateString.swift */,
+				1819FD26234C18AA00F299A4 /* 436. FindRightInterval.swift */,
 				1812C9692321E6830079C43D /* 290. WordPattern.swift */,
 				18A9A9CD2329E89A00A30408 /* 238. ProductOfArrayExceptSelf.swift */,
 				1835E266233DBDFB00335E8A /* 258. AddDigits.swift */,
@@ -437,6 +443,7 @@
 				186AA90B21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift in Sources */,
 				181795FB231F4B930043074A /* 206. ReverseLinkedList.swift in Sources */,
 				185EB08423177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift in Sources */,
+				1819FD29234C8BB700F299A4 /* 747. LargestNumberAtLeastTwiceOfOthers.swift in Sources */,
 				18A9A9D2232A2C9600A30408 /* 15. 3Sum.swift in Sources */,
 				18EFB1172319136300BA8717 /* 217. ContainsDuplicate.swift in Sources */,
 				18AE5C3621E58E3A0091703F /* 746. MinCostClimbingStairs.swift in Sources */,
@@ -466,6 +473,7 @@
 				18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */,
 				182EDDD821DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift in Sources */,
 				184E145F21DEFB1A00E2DD11 /* 283. MoveZeroes.swift in Sources */,
+				1819FD27234C18AA00F299A4 /* 436. FindRightInterval.swift in Sources */,
 				18B9DBA321E2E7D000D1EF23 /* 485. MaxConsecutiveOnes.swift in Sources */,
 				18EAF75221CC8401009660C1 /* 189. RotateArray.swift in Sources */,
 				18C05A4D23330B2500DBCC0F /* 81. SearchInRotatedSortedArrayII.swift in Sources */,
