@@ -212,13 +212,10 @@
 				1897176023403E2500CA52A7 /* 303. RangeSumQueryImmutable.swift */,
 				18971762234041F500CA52A7 /* 287. FindTheDuplicateNumber.swift */,
 				18A408B12341916E00DF4D18 /* 509. FibonacciNumber.swift */,
-<<<<<<< HEAD
 				1819FD28234C8BB700F299A4 /* 747. LargestNumberAtLeastTwiceOfOthers.swift */,
-=======
 				BE27692223433DB50000FF56 /* 349. IntersectionOfTwoArrays.swift */,
 				BEAA15772344277B001D265F /* 80. RemoveDuplicatesFromSortedArrayII.swift */,
 				BEAA157923478AA9001D265F /* 922. SortArrayByParityII.swift */,
->>>>>>> 035af83feb241b50e1b413c3f7bd1e5559fff6c2
 			);
 			path = Array;
 			sourceTree = "<group>";
