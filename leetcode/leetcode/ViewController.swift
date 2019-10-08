@@ -37,7 +37,8 @@ class ViewController: UIViewController {
 //        min = minStack.getMin()
 //        print(min)
         
-        let result = FindRightInterval().findRightInterval([[4,5],[2,3],[1,2]])
+        var temp = [1,1,1,1]
+        let result = RemoveDuplicatesFromSortedArrayII().removeDuplicates(&temp)
         print(result)
     }
 
