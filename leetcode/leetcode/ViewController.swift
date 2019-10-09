@@ -38,7 +38,12 @@ class ViewController: UIViewController {
 //        print(min)
         
         var temp = [1,1,1,1]
-        let result = RemoveDuplicatesFromSortedArrayII().removeDuplicates(&temp)
+        let result = fourSumCount().fourSumCount(
+            [-1,-1],
+            [-1,1],
+            [-1,1],
+            [1,-1])
+
         print(result)
     }
 
