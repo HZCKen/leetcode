@@ -43,6 +43,7 @@
 		1897176123403E2500CA52A7 /* 303. RangeSumQueryImmutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1897176023403E2500CA52A7 /* 303. RangeSumQueryImmutable.swift */; };
 		18971763234041F500CA52A7 /* 287. FindTheDuplicateNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18971762234041F500CA52A7 /* 287. FindTheDuplicateNumber.swift */; };
 		18A408B22341916E00DF4D18 /* 509. FibonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A408B12341916E00DF4D18 /* 509. FibonacciNumber.swift */; };
+		18A68F9E234EB9E400B7FEAF /* 658. FindKClosestElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A68F9D234EB9E400B7FEAF /* 658. FindKClosestElements.swift */; };
 		18A9A9CC2329E0A500A30408 /* 104. MaximumDepthOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A9A9CB2329E0A500A30408 /* 104. MaximumDepthOfBinaryTree.swift */; };
 		18A9A9CE2329E89A00A30408 /* 238. ProductOfArrayExceptSelf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A9A9CD2329E89A00A30408 /* 238. ProductOfArrayExceptSelf.swift */; };
 		18A9A9D2232A2C9600A30408 /* 15. 3Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A9A9D1232A2C9600A30408 /* 15. 3Sum.swift */; };
@@ -127,6 +128,7 @@
 		1897176023403E2500CA52A7 /* 303. RangeSumQueryImmutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "303. RangeSumQueryImmutable.swift"; sourceTree = "<group>"; };
 		18971762234041F500CA52A7 /* 287. FindTheDuplicateNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "287. FindTheDuplicateNumber.swift"; sourceTree = "<group>"; };
 		18A408B12341916E00DF4D18 /* 509. FibonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "509. FibonacciNumber.swift"; sourceTree = "<group>"; };
+		18A68F9D234EB9E400B7FEAF /* 658. FindKClosestElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "658. FindKClosestElements.swift"; sourceTree = "<group>"; };
 		18A9A9CB2329E0A500A30408 /* 104. MaximumDepthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. MaximumDepthOfBinaryTree.swift"; sourceTree = "<group>"; };
 		18A9A9CD2329E89A00A30408 /* 238. ProductOfArrayExceptSelf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "238. ProductOfArrayExceptSelf.swift"; sourceTree = "<group>"; };
 		18A9A9D1232A2C9600A30408 /* 15. 3Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15. 3Sum.swift"; sourceTree = "<group>"; };
@@ -253,6 +255,7 @@
 				18EAF72A21CC8047009660C1 /* LaunchScreen.storyboard */,
 				18EAF72D21CC8047009660C1 /* Info.plist */,
 				18EAF74F21CC8071009660C1 /* 796. RotateString.swift */,
+				18A68F9D234EB9E400B7FEAF /* 658. FindKClosestElements.swift */,
 				1819FD26234C18AA00F299A4 /* 436. FindRightInterval.swift */,
 				1812C9692321E6830079C43D /* 290. WordPattern.swift */,
 				18A9A9CD2329E89A00A30408 /* 238. ProductOfArrayExceptSelf.swift */,
@@ -473,6 +476,7 @@
 				18EFB1152319014800BA8717 /* 977. SquaresOfASortedArray.swift in Sources */,
 				185EB0822317708D003474CC /* 914. XOfAKindInADeckOfCards.swift in Sources */,
 				1892A9C0231CB595003516ED /* 122. BestTimeToBuyAndSellStock II.swift in Sources */,
+				18A68F9E234EB9E400B7FEAF /* 658. FindKClosestElements.swift in Sources */,
 				18A9A9CE2329E89A00A30408 /* 238. ProductOfArrayExceptSelf.swift in Sources */,
 				1814F5F521D08E4D005405E9 /* 66. PlusOne.swift in Sources */,
 				1892A9BE231CA688003516ED /* 121. BestTimeToBuyAndSellStock.swift in Sources */,
