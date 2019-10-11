@@ -37,12 +37,8 @@ class ViewController: UIViewController {
 //        min = minStack.getMin()
 //        print(min)
         
-        var temp = [1,1,1,1]
-        let result = fourSumCount().fourSumCount(
-            [-1,-1],
-            [-1,1],
-            [-1,1],
-            [1,-1])
+        var temp = [3,1,4,2]
+        let result = Find132pattern().find132pattern(temp)
 
         print(result)
     }
