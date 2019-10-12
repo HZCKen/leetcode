@@ -37,8 +37,11 @@ class ViewController: UIViewController {
 //        min = minStack.getMin()
 //        print(min)
         
-        var temp = [3,1,4,2]
-        let result = Find132pattern().find132pattern(temp)
+//        let temp = [3,1,4,2]
+        [1,2,3,2,1]
+        [3,2,1,4,7]
+
+        let result = MaximumLengthOfRepeatedSubarray().findLength( [1,2,3,2,1],  [3,2,1,4,7])
 
         print(result)
     }

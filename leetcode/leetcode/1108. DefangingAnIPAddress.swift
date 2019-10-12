@@ -36,7 +36,7 @@ import Foundation
 class DefangingAnIPAddress {
     func defangIPaddr(_ address: String) -> String {
         var result = ""
-        address.map { (c)  in
+        _ = address.map { (c)  in
             if c == "." {
                 result.append("[.]")
             } else {

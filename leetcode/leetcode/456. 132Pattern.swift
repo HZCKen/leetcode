@@ -35,7 +35,7 @@ class Find132pattern {
         stack.append(nums[nums.count - 1])
         for i in (0...(nums.count - 2)).reversed() {
             print(i)
-            print( "secondMax\(secondMax) nums[i] \(nums[i])  stack\(stack.last)")
+//            print( "secondMax\(secondMax) nums[i] \(nums[i])  stack\(stack.last)")
 
             if nums[i] < secondMax {
                 return true
