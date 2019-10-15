@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		18052DC621D20F990086F485 /* 434. NumberOfSegmentsInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18052DC521D20F990086F485 /* 434. NumberOfSegmentsInAString.swift */; };
 		18052DC821D220E10086F485 /* 806. NumberOfLinesToWriteString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18052DC721D220E10086F485 /* 806. NumberOfLinesToWriteString.swift */; };
+		1810C4B72355C07D00499E6F /* 448. FindAllNumbersDisappearedInAnArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1810C4B62355C07D00499E6F /* 448. FindAllNumbersDisappearedInAnArray.swift */; };
 		1812C96A2321E6830079C43D /* 290. WordPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1812C9692321E6830079C43D /* 290. WordPattern.swift */; };
 		1813AE2B23345D8800F9DC35 /* 162. FindPeakElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1813AE2A23345D8800F9DC35 /* 162. FindPeakElement.swift */; };
 		1814F1BB23209E70002E1825 /* 231. PowerOfTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1814F1BA23209E70002E1825 /* 231. PowerOfTwo.swift */; };
@@ -97,6 +98,7 @@
 /* Begin PBXFileReference section */
 		18052DC521D20F990086F485 /* 434. NumberOfSegmentsInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "434. NumberOfSegmentsInAString.swift"; sourceTree = "<group>"; };
 		18052DC721D220E10086F485 /* 806. NumberOfLinesToWriteString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "806. NumberOfLinesToWriteString.swift"; sourceTree = "<group>"; };
+		1810C4B62355C07D00499E6F /* 448. FindAllNumbersDisappearedInAnArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "448. FindAllNumbersDisappearedInAnArray.swift"; sourceTree = "<group>"; };
 		1812C9692321E6830079C43D /* 290. WordPattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "290. WordPattern.swift"; sourceTree = "<group>"; };
 		1813AE2A23345D8800F9DC35 /* 162. FindPeakElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "162. FindPeakElement.swift"; sourceTree = "<group>"; };
 		1814F1BA23209E70002E1825 /* 231. PowerOfTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "231. PowerOfTwo.swift"; sourceTree = "<group>"; };
@@ -225,6 +227,7 @@
 				BEAA15772344277B001D265F /* 80. RemoveDuplicatesFromSortedArrayII.swift */,
 				BEAA157923478AA9001D265F /* 922. SortArrayByParityII.swift */,
 				BE5BD3D4235168B800E90095 /* 718. MaximumLengthOfRepeatedSubarray.swift */,
+				1810C4B62355C07D00499E6F /* 448. FindAllNumbersDisappearedInAnArray.swift */,
 			);
 			path = Array;
 			sourceTree = "<group>";
@@ -495,6 +498,7 @@
 				18B9DBA121E2DEB700D1EF23 /* 628. MaximumProductOfThreeNumbers.swift in Sources */,
 				1818CD2123307A6800487FDE /* 1108. DefangingAnIPAddress.swift in Sources */,
 				18BC0F18231DF3BC00213E41 /* 136. SingleNumber.swift in Sources */,
+				1810C4B72355C07D00499E6F /* 448. FindAllNumbersDisappearedInAnArray.swift in Sources */,
 				18EAF75021CC8071009660C1 /* 796. RotateString.swift in Sources */,
 				18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */,
 				BEAA15782344277B001D265F /* 80. RemoveDuplicatesFromSortedArrayII.swift in Sources */,
