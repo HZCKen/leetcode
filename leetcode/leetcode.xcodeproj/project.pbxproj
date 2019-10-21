@@ -44,6 +44,7 @@
 		1892A9C2231CC025003516ED /* 169. MajorityElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1892A9C1231CC025003516ED /* 169. MajorityElement.swift */; };
 		1897176123403E2500CA52A7 /* 303. RangeSumQueryImmutable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1897176023403E2500CA52A7 /* 303. RangeSumQueryImmutable.swift */; };
 		18971763234041F500CA52A7 /* 287. FindTheDuplicateNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18971762234041F500CA52A7 /* 287. FindTheDuplicateNumber.swift */; };
+		18A0A95E235D4D54009B1623 /* 744. FindSmallestLetterGreaterThanTarget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A0A95D235D4D54009B1623 /* 744. FindSmallestLetterGreaterThanTarget.swift */; };
 		18A408B22341916E00DF4D18 /* 509. FibonacciNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A408B12341916E00DF4D18 /* 509. FibonacciNumber.swift */; };
 		18A68F9E234EB9E400B7FEAF /* 658. FindKClosestElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A68F9D234EB9E400B7FEAF /* 658. FindKClosestElements.swift */; };
 		18A9A9CC2329E0A500A30408 /* 104. MaximumDepthOfBinaryTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A9A9CB2329E0A500A30408 /* 104. MaximumDepthOfBinaryTree.swift */; };
@@ -135,6 +136,7 @@
 		1892A9C1231CC025003516ED /* 169. MajorityElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "169. MajorityElement.swift"; sourceTree = "<group>"; };
 		1897176023403E2500CA52A7 /* 303. RangeSumQueryImmutable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "303. RangeSumQueryImmutable.swift"; sourceTree = "<group>"; };
 		18971762234041F500CA52A7 /* 287. FindTheDuplicateNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "287. FindTheDuplicateNumber.swift"; sourceTree = "<group>"; };
+		18A0A95D235D4D54009B1623 /* 744. FindSmallestLetterGreaterThanTarget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "744. FindSmallestLetterGreaterThanTarget.swift"; sourceTree = "<group>"; };
 		18A408B12341916E00DF4D18 /* 509. FibonacciNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "509. FibonacciNumber.swift"; sourceTree = "<group>"; };
 		18A68F9D234EB9E400B7FEAF /* 658. FindKClosestElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "658. FindKClosestElements.swift"; sourceTree = "<group>"; };
 		18A9A9CB2329E0A500A30408 /* 104. MaximumDepthOfBinaryTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "104. MaximumDepthOfBinaryTree.swift"; sourceTree = "<group>"; };
@@ -270,6 +272,7 @@
 				18EAF72A21CC8047009660C1 /* LaunchScreen.storyboard */,
 				18EAF72D21CC8047009660C1 /* Info.plist */,
 				18EAF74F21CC8071009660C1 /* 796. RotateString.swift */,
+				18A0A95D235D4D54009B1623 /* 744. FindSmallestLetterGreaterThanTarget.swift */,
 				18AD74D72359530F0021CF5C /* 911. OnlineElection.swift */,
 				18905E982356AD5800BDF36B /* 1111. MaximumNestingDepthOfTwoValidParenthesesStrings.swift */,
 				18CBADA1235009C000E27D69 /* 456. 132Pattern.swift */,
@@ -471,6 +474,7 @@
 				18B9DBA521E2EB7900D1EF23 /* 905. SortArrayByParity.swift in Sources */,
 				1835E267233DBDFB00335E8A /* 258. AddDigits.swift in Sources */,
 				1814F5F121D07F6E005405E9 /* 344. ReverseString.swift in Sources */,
+				18A0A95E235D4D54009B1623 /* 744. FindSmallestLetterGreaterThanTarget.swift in Sources */,
 				18052DC621D20F990086F485 /* 434. NumberOfSegmentsInAString.swift in Sources */,
 				1812C96A2321E6830079C43D /* 290. WordPattern.swift in Sources */,
 				1813AE2B23345D8800F9DC35 /* 162. FindPeakElement.swift in Sources */,

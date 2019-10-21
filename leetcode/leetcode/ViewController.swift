@@ -45,10 +45,11 @@ class ViewController: UIViewController {
 //
 //        print(result)
         
-        let top = TopVotedCandidate([0,1,1,0,0,1,0], [0,5,10,15,20,25,30])
+        let top = FindSmallestLetterGreaterThanTarget().nextGreatestLetter(["c","f","j"]
+        , "a")
         
         
-        print(top.q(8))
+        print(top)
     }
 
     override func didReceiveMemoryWarning() {
