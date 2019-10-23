@@ -27,6 +27,7 @@
 		182D70ED233C4EF7000EC62D /* 342. PowerOfFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182D70EC233C4EF7000EC62D /* 342. PowerOfFour.swift */; };
 		182EDDD821DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */; };
 		1835E267233DBDFB00335E8A /* 258. AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1835E266233DBDFB00335E8A /* 258. AddDigits.swift */; };
+		18467BCF235FDD720077E530 /* 387. FirstUniqueCharacterInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18467BCE235FDD720077E530 /* 387. FirstUniqueCharacterInAString.swift */; };
 		184A0B592331C62B0095BC2A /* 74. SearchA2DMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184A0B582331C62B0095BC2A /* 74. SearchA2DMatrix.swift */; };
 		184E145F21DEFB1A00E2DD11 /* 283. MoveZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184E145E21DEFB1A00E2DD11 /* 283. MoveZeroes.swift */; };
 		184E146121DEFEC300E2DD11 /* 268. MissingNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184E146021DEFEC300E2DD11 /* 268. MissingNumber.swift */; };
@@ -35,6 +36,7 @@
 		18554D2B234D777C0035F40B /* 454. 4SumII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18554D2A234D777C0035F40B /* 454. 4SumII.swift */; };
 		185EB0822317708D003474CC /* 914. XOfAKindInADeckOfCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EB0812317708D003474CC /* 914. XOfAKindInADeckOfCards.swift */; };
 		185EB08423177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EB08323177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift */; };
+		18695FD5235E908D00F61755 /* 125. ValidPalindrome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18695FD4235E908D00F61755 /* 125. ValidPalindrome.swift */; };
 		186AA90B21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186AA90A21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift */; };
 		187C1A91233EE3CF00FDA6CA /* 219. ContainsDuplicateII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187C1A90233EE3CF00FDA6CA /* 219. ContainsDuplicateII.swift */; };
 		187C1A93233EEF5300FDA6CA /* 220. ContainsDuplicateIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187C1A92233EEF5300FDA6CA /* 220. ContainsDuplicateIII.swift */; };
@@ -120,6 +122,7 @@
 		182D70EC233C4EF7000EC62D /* 342. PowerOfFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "342. PowerOfFour.swift"; sourceTree = "<group>"; };
 		182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "831. MaskingPersonalInformation.swift"; sourceTree = "<group>"; };
 		1835E266233DBDFB00335E8A /* 258. AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "258. AddDigits.swift"; sourceTree = "<group>"; };
+		18467BCE235FDD720077E530 /* 387. FirstUniqueCharacterInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "387. FirstUniqueCharacterInAString.swift"; sourceTree = "<group>"; };
 		184A0B582331C62B0095BC2A /* 74. SearchA2DMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. SearchA2DMatrix.swift"; sourceTree = "<group>"; };
 		184E145E21DEFB1A00E2DD11 /* 283. MoveZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "283. MoveZeroes.swift"; sourceTree = "<group>"; };
 		184E146021DEFEC300E2DD11 /* 268. MissingNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "268. MissingNumber.swift"; sourceTree = "<group>"; };
@@ -127,6 +130,7 @@
 		18554D2A234D777C0035F40B /* 454. 4SumII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "454. 4SumII.swift"; sourceTree = "<group>"; };
 		185EB0812317708D003474CC /* 914. XOfAKindInADeckOfCards.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "914. XOfAKindInADeckOfCards.swift"; sourceTree = "<group>"; };
 		185EB08323177DA7003474CC /* 985. SumOfEvenNumbersAfterQueries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "985. SumOfEvenNumbersAfterQueries.swift"; sourceTree = "<group>"; };
+		18695FD4235E908D00F61755 /* 125. ValidPalindrome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "125. ValidPalindrome.swift"; sourceTree = "<group>"; };
 		186AA90A21D715DA008A8FC4 /* 17. LetterCombinationsOfAPhoneNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17. LetterCombinationsOfAPhoneNumber.swift"; sourceTree = "<group>"; };
 		187C1A90233EE3CF00FDA6CA /* 219. ContainsDuplicateII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "219. ContainsDuplicateII.swift"; sourceTree = "<group>"; };
 		187C1A92233EEF5300FDA6CA /* 220. ContainsDuplicateIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "220. ContainsDuplicateIII.swift"; sourceTree = "<group>"; };
@@ -272,6 +276,8 @@
 				18EAF72A21CC8047009660C1 /* LaunchScreen.storyboard */,
 				18EAF72D21CC8047009660C1 /* Info.plist */,
 				18EAF74F21CC8071009660C1 /* 796. RotateString.swift */,
+				18467BCE235FDD720077E530 /* 387. FirstUniqueCharacterInAString.swift */,
+				18695FD4235E908D00F61755 /* 125. ValidPalindrome.swift */,
 				18A0A95D235D4D54009B1623 /* 744. FindSmallestLetterGreaterThanTarget.swift */,
 				18AD74D72359530F0021CF5C /* 911. OnlineElection.swift */,
 				18905E982356AD5800BDF36B /* 1111. MaximumNestingDepthOfTwoValidParenthesesStrings.swift */,
@@ -462,6 +468,7 @@
 			files = (
 				18EAF72421CC8043009660C1 /* ViewController.swift in Sources */,
 				184E146321DF034400E2DD11 /* 414. ThirdMaximumNumber.swift in Sources */,
+				18695FD5235E908D00F61755 /* 125. ValidPalindrome.swift in Sources */,
 				1814F1BF2320B005002E1825 /* 292. NimGame.swift in Sources */,
 				1814F1BD23209FA4002E1825 /* 155. MinStack.swift in Sources */,
 				18F830322357F9D600423A54 /* 605. CanPlaceFlowers.swift in Sources */,
@@ -502,6 +509,7 @@
 				185EB0822317708D003474CC /* 914. XOfAKindInADeckOfCards.swift in Sources */,
 				18CBADA2235009C000E27D69 /* 456. 132Pattern.swift in Sources */,
 				1892A9C0231CB595003516ED /* 122. BestTimeToBuyAndSellStock II.swift in Sources */,
+				18467BCF235FDD720077E530 /* 387. FirstUniqueCharacterInAString.swift in Sources */,
 				18A68F9E234EB9E400B7FEAF /* 658. FindKClosestElements.swift in Sources */,
 				18A9A9CE2329E89A00A30408 /* 238. ProductOfArrayExceptSelf.swift in Sources */,
 				1814F5F521D08E4D005405E9 /* 66. PlusOne.swift in Sources */,
