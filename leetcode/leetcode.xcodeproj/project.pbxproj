@@ -26,6 +26,7 @@
 		182D70EB233C4D5A000EC62D /* 326. PowerOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182D70EA233C4D5A000EC62D /* 326. PowerOfThree.swift */; };
 		182D70ED233C4EF7000EC62D /* 342. PowerOfFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182D70EC233C4EF7000EC62D /* 342. PowerOfFour.swift */; };
 		182EDDD821DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */; };
+		1832917B236139B200BFB903 /* 172. FactorialTrailingZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1832917A236139B200BFB903 /* 172. FactorialTrailingZeroes.swift */; };
 		1835E267233DBDFB00335E8A /* 258. AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1835E266233DBDFB00335E8A /* 258. AddDigits.swift */; };
 		18467BCF235FDD720077E530 /* 387. FirstUniqueCharacterInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18467BCE235FDD720077E530 /* 387. FirstUniqueCharacterInAString.swift */; };
 		184A0B592331C62B0095BC2A /* 74. SearchA2DMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184A0B582331C62B0095BC2A /* 74. SearchA2DMatrix.swift */; };
@@ -121,6 +122,7 @@
 		182D70EA233C4D5A000EC62D /* 326. PowerOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "326. PowerOfThree.swift"; sourceTree = "<group>"; };
 		182D70EC233C4EF7000EC62D /* 342. PowerOfFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "342. PowerOfFour.swift"; sourceTree = "<group>"; };
 		182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "831. MaskingPersonalInformation.swift"; sourceTree = "<group>"; };
+		1832917A236139B200BFB903 /* 172. FactorialTrailingZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "172. FactorialTrailingZeroes.swift"; sourceTree = "<group>"; };
 		1835E266233DBDFB00335E8A /* 258. AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "258. AddDigits.swift"; sourceTree = "<group>"; };
 		18467BCE235FDD720077E530 /* 387. FirstUniqueCharacterInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "387. FirstUniqueCharacterInAString.swift"; sourceTree = "<group>"; };
 		184A0B582331C62B0095BC2A /* 74. SearchA2DMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. SearchA2DMatrix.swift"; sourceTree = "<group>"; };
@@ -276,6 +278,7 @@
 				18EAF72A21CC8047009660C1 /* LaunchScreen.storyboard */,
 				18EAF72D21CC8047009660C1 /* Info.plist */,
 				18EAF74F21CC8071009660C1 /* 796. RotateString.swift */,
+				1832917A236139B200BFB903 /* 172. FactorialTrailingZeroes.swift */,
 				18467BCE235FDD720077E530 /* 387. FirstUniqueCharacterInAString.swift */,
 				18695FD4235E908D00F61755 /* 125. ValidPalindrome.swift */,
 				18A0A95D235D4D54009B1623 /* 744. FindSmallestLetterGreaterThanTarget.swift */,
@@ -482,6 +485,7 @@
 				1835E267233DBDFB00335E8A /* 258. AddDigits.swift in Sources */,
 				1814F5F121D07F6E005405E9 /* 344. ReverseString.swift in Sources */,
 				18A0A95E235D4D54009B1623 /* 744. FindSmallestLetterGreaterThanTarget.swift in Sources */,
+				1832917B236139B200BFB903 /* 172. FactorialTrailingZeroes.swift in Sources */,
 				18052DC621D20F990086F485 /* 434. NumberOfSegmentsInAString.swift in Sources */,
 				1812C96A2321E6830079C43D /* 290. WordPattern.swift in Sources */,
 				1813AE2B23345D8800F9DC35 /* 162. FindPeakElement.swift in Sources */,
