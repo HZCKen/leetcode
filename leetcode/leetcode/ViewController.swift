@@ -44,12 +44,15 @@ class ViewController: UIViewController {
 //        let result = MaximumNestingDepthOfTwoValidParenthesesStrings().maxDepthAfterSplit("()()")
 //
 //        print(result)
-        
-        let top = FindSmallestLetterGreaterThanTarget().nextGreatestLetter(["c","f","j"]
-        , "a")
-        
-        
-        print(top)
+//         ["TimeMap","set","get","get","set","get","get"], inputs = [[],["foo","bar",1],["foo",1],["foo",3],["foo","bar2",4],["foo",4],["foo",5]]
+//        [[],["love","high",10],["love","low",20],["love",5],["love",10],["love",15],["love",20],["love",25]]
+
+
+        let timeMap = TimeMap()
+        timeMap.set("love", "high", 10)
+        timeMap.set("love", "low", 20)
+        let result = timeMap.get("love", 15)
+        print(result)
     }
 
     override func didReceiveMemoryWarning() {
