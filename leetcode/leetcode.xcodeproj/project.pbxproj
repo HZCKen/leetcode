@@ -67,6 +67,8 @@
 		18CBADA2235009C000E27D69 /* 456. 132Pattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CBADA1235009C000E27D69 /* 456. 132Pattern.swift */; };
 		18CF43FB233AF0D200FAA0A9 /* 275. HIndexII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CF43FA233AF0D200FAA0A9 /* 275. HIndexII.swift */; };
 		18D011C12339FDF600F42E38 /* 240. SearchA2DMatrix2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D011C02339FDF600F42E38 /* 240. SearchA2DMatrix2.swift */; };
+		18DF02992369244C009F3F95 /* 260. SingleNumberIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DF02982369244C009F3F95 /* 260. SingleNumberIII.swift */; };
+		18DF029B2369249C009F3F95 /* 137. SingleNumberII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DF029A2369249C009F3F95 /* 137. SingleNumberII.swift */; };
 		18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72121CC8043009660C1 /* AppDelegate.swift */; };
 		18EAF72421CC8043009660C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72321CC8043009660C1 /* ViewController.swift */; };
 		18EAF72721CC8043009660C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EAF72521CC8043009660C1 /* Main.storyboard */; };
@@ -164,6 +166,8 @@
 		18CBADA1235009C000E27D69 /* 456. 132Pattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "456. 132Pattern.swift"; sourceTree = "<group>"; };
 		18CF43FA233AF0D200FAA0A9 /* 275. HIndexII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "275. HIndexII.swift"; sourceTree = "<group>"; };
 		18D011C02339FDF600F42E38 /* 240. SearchA2DMatrix2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "240. SearchA2DMatrix2.swift"; sourceTree = "<group>"; };
+		18DF02982369244C009F3F95 /* 260. SingleNumberIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "260. SingleNumberIII.swift"; sourceTree = "<group>"; };
+		18DF029A2369249C009F3F95 /* 137. SingleNumberII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "137. SingleNumberII.swift"; sourceTree = "<group>"; };
 		18EAF71E21CC8043009660C1 /* leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EAF72121CC8043009660C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18EAF72321CC8043009660C1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -309,6 +313,8 @@
 				182D70EC233C4EF7000EC62D /* 342. PowerOfFour.swift */,
 				1814F1BC23209FA4002E1825 /* 155. MinStack.swift */,
 				18BC0F17231DF3BC00213E41 /* 136. SingleNumber.swift */,
+				18DF029A2369249C009F3F95 /* 137. SingleNumberII.swift */,
+				18DF02982369244C009F3F95 /* 260. SingleNumberIII.swift */,
 				18BC0F19231DF7AD00213E41 /* 70. ClimbingStairs.swift */,
 				18EAF75121CC8401009660C1 /* 189. RotateArray.swift */,
 				18EAF75321CC92B3009660C1 /* 709. ToLowerCase.swift */,
@@ -537,11 +543,13 @@
 				18EAF75021CC8071009660C1 /* 796. RotateString.swift in Sources */,
 				18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */,
 				BEAA15782344277B001D265F /* 80. RemoveDuplicatesFromSortedArrayII.swift in Sources */,
+				18DF02992369244C009F3F95 /* 260. SingleNumberIII.swift in Sources */,
 				182EDDD821DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift in Sources */,
 				BEAA157A23478AA9001D265F /* 922. SortArrayByParityII.swift in Sources */,
 				184E145F21DEFB1A00E2DD11 /* 283. MoveZeroes.swift in Sources */,
 				1819FD27234C18AA00F299A4 /* 436. FindRightInterval.swift in Sources */,
 				18B9DBA321E2E7D000D1EF23 /* 485. MaxConsecutiveOnes.swift in Sources */,
+				18DF029B2369249C009F3F95 /* 137. SingleNumberII.swift in Sources */,
 				18EAF75221CC8401009660C1 /* 189. RotateArray.swift in Sources */,
 				18C05A4D23330B2500DBCC0F /* 81. SearchInRotatedSortedArrayII.swift in Sources */,
 				18D011C12339FDF600F42E38 /* 240. SearchA2DMatrix2.swift in Sources */,
