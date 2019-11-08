@@ -28,6 +28,8 @@
 		182EDDD821DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */; };
 		1832917B236139B200BFB903 /* 172. FactorialTrailingZeroes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1832917A236139B200BFB903 /* 172. FactorialTrailingZeroes.swift */; };
 		1835E267233DBDFB00335E8A /* 258. AddDigits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1835E266233DBDFB00335E8A /* 258. AddDigits.swift */; };
+		18372BCF236BBAAD00274D05 /* 392. IsSubsequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18372BCE236BBAAD00274D05 /* 392. IsSubsequence.swift */; };
+		18392E4C236FB472005867DF /* 350. IntersectionOfTwoArraysII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18392E4B236FB472005867DF /* 350. IntersectionOfTwoArraysII.swift */; };
 		18467BCF235FDD720077E530 /* 387. FirstUniqueCharacterInAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18467BCE235FDD720077E530 /* 387. FirstUniqueCharacterInAString.swift */; };
 		1848F8042362800B0062F422 /* 981. TimeBasedKeyValueStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1848F8032362800B0062F422 /* 981. TimeBasedKeyValueStore.swift */; };
 		184A0B592331C62B0095BC2A /* 74. SearchA2DMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184A0B582331C62B0095BC2A /* 74. SearchA2DMatrix.swift */; };
@@ -129,6 +131,8 @@
 		182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "831. MaskingPersonalInformation.swift"; sourceTree = "<group>"; };
 		1832917A236139B200BFB903 /* 172. FactorialTrailingZeroes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "172. FactorialTrailingZeroes.swift"; sourceTree = "<group>"; };
 		1835E266233DBDFB00335E8A /* 258. AddDigits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "258. AddDigits.swift"; sourceTree = "<group>"; };
+		18372BCE236BBAAD00274D05 /* 392. IsSubsequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "392. IsSubsequence.swift"; sourceTree = "<group>"; };
+		18392E4B236FB472005867DF /* 350. IntersectionOfTwoArraysII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "350. IntersectionOfTwoArraysII.swift"; sourceTree = "<group>"; };
 		18467BCE235FDD720077E530 /* 387. FirstUniqueCharacterInAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "387. FirstUniqueCharacterInAString.swift"; sourceTree = "<group>"; };
 		1848F8032362800B0062F422 /* 981. TimeBasedKeyValueStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "981. TimeBasedKeyValueStore.swift"; sourceTree = "<group>"; };
 		184A0B582331C62B0095BC2A /* 74. SearchA2DMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "74. SearchA2DMatrix.swift"; sourceTree = "<group>"; };
@@ -288,7 +292,9 @@
 				18EAF72A21CC8047009660C1 /* LaunchScreen.storyboard */,
 				18EAF72D21CC8047009660C1 /* Info.plist */,
 				18EAF74F21CC8071009660C1 /* 796. RotateString.swift */,
+				18392E4B236FB472005867DF /* 350. IntersectionOfTwoArraysII.swift */,
 				18A4A711236ACCFC00C8D39F /* 704. BinarySearch.swift */,
+				18372BCE236BBAAD00274D05 /* 392. IsSubsequence.swift */,
 				1832917A236139B200BFB903 /* 172. FactorialTrailingZeroes.swift */,
 				1848F8032362800B0062F422 /* 981. TimeBasedKeyValueStore.swift */,
 				1888833A2366BFC2003F92A9 /* 226. InvertBinaryTree.swift */,
@@ -518,7 +524,9 @@
 				187C1A91233EE3CF00FDA6CA /* 219. ContainsDuplicateII.swift in Sources */,
 				18EAF75421CC92B3009660C1 /* 709. ToLowerCase.swift in Sources */,
 				BE27692323433DB50000FF56 /* 349. IntersectionOfTwoArrays.swift in Sources */,
+				18372BCF236BBAAD00274D05 /* 392. IsSubsequence.swift in Sources */,
 				18BC0F1A231DF7AD00213E41 /* 70. ClimbingStairs.swift in Sources */,
+				18392E4C236FB472005867DF /* 350. IntersectionOfTwoArraysII.swift in Sources */,
 				18905E992356AD5800BDF36B /* 1111. MaximumNestingDepthOfTwoValidParenthesesStrings.swift in Sources */,
 				18BC0F1C231E00C200213E41 /* 78. Subsets.swift in Sources */,
 				18CF43FB233AF0D200FAA0A9 /* 275. HIndexII.swift in Sources */,
