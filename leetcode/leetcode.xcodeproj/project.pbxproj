@@ -23,6 +23,7 @@
 		1818CD23233082AE00487FDE /* 29. DivideTwoIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1818CD22233082AE00487FDE /* 29. DivideTwoIntegers.swift */; };
 		1819FD27234C18AA00F299A4 /* 436. FindRightInterval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1819FD26234C18AA00F299A4 /* 436. FindRightInterval.swift */; };
 		1819FD29234C8BB700F299A4 /* 747. LargestNumberAtLeastTwiceOfOthers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1819FD28234C8BB700F299A4 /* 747. LargestNumberAtLeastTwiceOfOthers.swift */; };
+		1828420E237951E40016D5D2 /* 1207. UniqueNumberOfOccurrences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1828420D237951E40016D5D2 /* 1207. UniqueNumberOfOccurrences.swift */; };
 		182D70EB233C4D5A000EC62D /* 326. PowerOfThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182D70EA233C4D5A000EC62D /* 326. PowerOfThree.swift */; };
 		182D70ED233C4EF7000EC62D /* 342. PowerOfFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182D70EC233C4EF7000EC62D /* 342. PowerOfFour.swift */; };
 		182EDDD821DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */; };
@@ -126,6 +127,7 @@
 		1818CD22233082AE00487FDE /* 29. DivideTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "29. DivideTwoIntegers.swift"; sourceTree = "<group>"; };
 		1819FD26234C18AA00F299A4 /* 436. FindRightInterval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "436. FindRightInterval.swift"; sourceTree = "<group>"; };
 		1819FD28234C8BB700F299A4 /* 747. LargestNumberAtLeastTwiceOfOthers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "747. LargestNumberAtLeastTwiceOfOthers.swift"; sourceTree = "<group>"; };
+		1828420D237951E40016D5D2 /* 1207. UniqueNumberOfOccurrences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1207. UniqueNumberOfOccurrences.swift"; sourceTree = "<group>"; };
 		182D70EA233C4D5A000EC62D /* 326. PowerOfThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "326. PowerOfThree.swift"; sourceTree = "<group>"; };
 		182D70EC233C4EF7000EC62D /* 342. PowerOfFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "342. PowerOfFour.swift"; sourceTree = "<group>"; };
 		182EDDD721DC6B3900A66A94 /* 831. MaskingPersonalInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "831. MaskingPersonalInformation.swift"; sourceTree = "<group>"; };
@@ -293,6 +295,7 @@
 				18EAF72D21CC8047009660C1 /* Info.plist */,
 				18EAF74F21CC8071009660C1 /* 796. RotateString.swift */,
 				18392E4B236FB472005867DF /* 350. IntersectionOfTwoArraysII.swift */,
+				1828420D237951E40016D5D2 /* 1207. UniqueNumberOfOccurrences.swift */,
 				18A4A711236ACCFC00C8D39F /* 704. BinarySearch.swift */,
 				18372BCE236BBAAD00274D05 /* 392. IsSubsequence.swift */,
 				1832917A236139B200BFB903 /* 172. FactorialTrailingZeroes.swift */,
@@ -517,6 +520,7 @@
 				18554D2B234D777C0035F40B /* 454. 4SumII.swift in Sources */,
 				1819FD29234C8BB700F299A4 /* 747. LargestNumberAtLeastTwiceOfOthers.swift in Sources */,
 				BE5BD3D5235168B800E90095 /* 718. MaximumLengthOfRepeatedSubarray.swift in Sources */,
+				1828420E237951E40016D5D2 /* 1207. UniqueNumberOfOccurrences.swift in Sources */,
 				18A9A9D2232A2C9600A30408 /* 15. 3Sum.swift in Sources */,
 				18EFB1172319136300BA8717 /* 217. ContainsDuplicate.swift in Sources */,
 				18AE5C3621E58E3A0091703F /* 746. MinCostClimbingStairs.swift in Sources */,
