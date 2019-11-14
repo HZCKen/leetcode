@@ -73,6 +73,7 @@
 		18D011C12339FDF600F42E38 /* 240. SearchA2DMatrix2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D011C02339FDF600F42E38 /* 240. SearchA2DMatrix2.swift */; };
 		18DF02992369244C009F3F95 /* 260. SingleNumberIII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DF02982369244C009F3F95 /* 260. SingleNumberIII.swift */; };
 		18DF029B2369249C009F3F95 /* 137. SingleNumberII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18DF029A2369249C009F3F95 /* 137. SingleNumberII.swift */; };
+		18E7F057237BAF8C00AECB4F /* 1249. MinimumRemoveToMakeValidParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E7F056237BAF8C00AECB4F /* 1249. MinimumRemoveToMakeValidParentheses.swift */; };
 		18EAF72221CC8043009660C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72121CC8043009660C1 /* AppDelegate.swift */; };
 		18EAF72421CC8043009660C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18EAF72321CC8043009660C1 /* ViewController.swift */; };
 		18EAF72721CC8043009660C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18EAF72521CC8043009660C1 /* Main.storyboard */; };
@@ -176,6 +177,7 @@
 		18D011C02339FDF600F42E38 /* 240. SearchA2DMatrix2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "240. SearchA2DMatrix2.swift"; sourceTree = "<group>"; };
 		18DF02982369244C009F3F95 /* 260. SingleNumberIII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "260. SingleNumberIII.swift"; sourceTree = "<group>"; };
 		18DF029A2369249C009F3F95 /* 137. SingleNumberII.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "137. SingleNumberII.swift"; sourceTree = "<group>"; };
+		18E7F056237BAF8C00AECB4F /* 1249. MinimumRemoveToMakeValidParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1249. MinimumRemoveToMakeValidParentheses.swift"; sourceTree = "<group>"; };
 		18EAF71E21CC8043009660C1 /* leetcode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = leetcode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18EAF72121CC8043009660C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18EAF72321CC8043009660C1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -294,6 +296,7 @@
 				18EAF72A21CC8047009660C1 /* LaunchScreen.storyboard */,
 				18EAF72D21CC8047009660C1 /* Info.plist */,
 				18EAF74F21CC8071009660C1 /* 796. RotateString.swift */,
+				18E7F056237BAF8C00AECB4F /* 1249. MinimumRemoveToMakeValidParentheses.swift */,
 				18392E4B236FB472005867DF /* 350. IntersectionOfTwoArraysII.swift */,
 				1828420D237951E40016D5D2 /* 1207. UniqueNumberOfOccurrences.swift */,
 				18A4A711236ACCFC00C8D39F /* 704. BinarySearch.swift */,
@@ -500,6 +503,7 @@
 				1814F1BD23209FA4002E1825 /* 155. MinStack.swift in Sources */,
 				18F830322357F9D600423A54 /* 605. CanPlaceFlowers.swift in Sources */,
 				1814F5F321D08149005405E9 /* 557. ReverseWordsinaStringIII.swift in Sources */,
+				18E7F057237BAF8C00AECB4F /* 1249. MinimumRemoveToMakeValidParentheses.swift in Sources */,
 				187C1A93233EEF5300FDA6CA /* 220. ContainsDuplicateIII.swift in Sources */,
 				182D70ED233C4EF7000EC62D /* 342. PowerOfFour.swift in Sources */,
 				18A408B22341916E00DF4D18 /* 509. FibonacciNumber.swift in Sources */,
